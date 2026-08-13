@@ -1,0 +1,436 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mall-SpringBoot+MyBatis 电商系统",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-14T08:32:05Z",
+            "owner": "macrozheng",
+            "repo": "mall",
+            "stars": 84575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring Boot 官方示例",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T06:22:31Z",
+            "owner": "spring-projects",
+            "repo": "spring-boot",
+            "stars": 81338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "纯洁的微笑 Spring Boot 示例",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-11-18T16:32:16Z",
+            "owner": "ityouknow",
+            "repo": "spring-boot-examples",
+            "stars": 30514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue+SpringBoot实现的人力资源管理系统",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-11-25T00:07:39Z",
+            "owner": "lenve",
+            "repo": "vhr",
+            "stars": 28077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-01T11:50:50Z",
+            "owner": "linlinjava",
+            "repo": "litemall",
+            "stars": 20337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-17T23:35:07Z",
+            "owner": "lihengming",
+            "repo": "spring-boot-api-project-seed",
+            "stars": 9693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hsweb企业后台管理系统基础框架",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T11:16:21Z",
+            "owner": "hs-web",
+            "repo": "hsweb-framework",
+            "stars": 8400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue+SpringBoot实现的多用户博客管理平台",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-05-28T15:31:22Z",
+            "owner": "lenve",
+            "repo": "VBlog",
+            "stars": 7414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring Boot开源软件 云收藏",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-07-12T01:41:05Z",
+            "owner": "cloudfavorites",
+            "repo": "favorites-web",
+            "stars": 4847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guns-基于SpringBoot的后台管理系统",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-11-15T13:20:19Z",
+            "owner": "stylefeng",
+            "repo": "Guns",
+            "stars": 3974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker+SpringBoot+Mybatis+thymeleaf等技术实现的Java博客系统",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-03-07T06:31:25Z",
+            "owner": "ZHENFENG13",
+            "repo": "My-Blog",
+            "stars": 3892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deployment scripts & config for Sock Shop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-12-05T14:11:58Z",
+            "owner": "microservices-demo",
+            "repo": "microservices-demo",
+            "stars": 3783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring Boot 2.x 现代化的脚手架项目",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-26T16:16:06Z",
+            "owner": "java-aodeng",
+            "repo": "hope-boot",
+            "stars": 3234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JWT (Json Web Token) with Spring Security and Spring Boot 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-02-07T06:09:47Z",
+            "owner": "szerhusenBC",
+            "repo": "jwt-spring-security-demo",
+            "stars": 3104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring-Boot-Plus 后台快速开发脚手架",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-07-12T01:27:54Z",
+            "owner": "geekidea",
+            "repo": "spring-boot-plus",
+            "stars": 2519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spring-boot各种示例",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-02T14:47:08Z",
+            "owner": "leehaut",
+            "repo": "spring-boot-all",
+            "stars": 1936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JApiDocs：无需注解的 SpringBoot API文档生成工具",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-19T16:05:36Z",
+            "owner": "YeDaxia",
+            "repo": "JApiDocs",
+            "stars": 1696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring Boot开源博客",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2020-03-19T05:54:33Z",
+            "owner": "Raysmond",
+            "repo": "SpringBlog",
+            "stars": 1644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring Boot项目实践总结",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-10-12T19:52:30Z",
+            "owner": "timebusker",
+            "repo": "spring-boot",
+            "stars": 1271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring Boot 实现的简易社区",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-06-17T01:46:42Z",
+            "owner": "ChinaLHR",
+            "repo": "JavaQuarkBBS",
+            "stars": 895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "一个基于spring boot 实现的股票指数💹爬虫",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-12-27T11:15:46Z",
+            "owner": "kingschan1204",
+            "repo": "istock",
+            "stars": 845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "基于Spring-boot和bootstrap搭建的商城系统",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-22T08:09:55Z",
+            "owner": "vito16",
+            "repo": "shop",
+            "stars": 599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zhudyos/duic Distributed configuration center（分布式配置中心）:new:",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2021-12-06T01:53:39Z",
+            "owner": "zhudyos",
+            "repo": "duic",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "当Parallel遇上了DI - SpringBoot并行聚合最佳实践",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-07-12T02:05:24Z",
+            "owner": "lvyahui8",
+            "repo": "spring-boot-data-aggregator",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue+SpringBoot实现的实体书购买平台",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-05-13T13:56:02Z",
+            "owner": "liuzhengwei127",
+            "repo": "Ebook",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "halo-基于SpringBoot的博客系统",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T02:57:57Z",
+            "owner": "ruibaby",
+            "repo": "halo",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "基于Spring Boot2.0 微服务脚手架",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-14T08:36:24Z",
+            "owner": "senssic",
+            "repo": "sc-whorl",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spring boot & Shiro 权限管理系统",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "开源"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spring Cloud 中文索引",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-16T15:03:45Z",
+            "owner": "ityouknow",
+            "repo": "awesome-spring-cloud",
+            "stars": 1468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IT行业中文资源大全",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-10-19T06:41:49Z",
+            "owner": "ityouknow",
+            "repo": "awesome-list",
+            "stars": 528
+          }
+        }
+      ],
+      "title": "其它"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:05.114Z",
+    "original_repository": "ityouknow/awesome-spring-boot",
+    "original_repository_sha": "a13a615724ad22d28487634e1f3df84274b84148",
+    "enhanced_repository": "enhansome/enhansome-spring-boot",
+    "enhanced_repository_description": null,
+    "title": "Awesome Spring Boot with stars"
+  }
+}
