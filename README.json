@@ -14,7 +14,7 @@
             "last_commit": "2026-05-14T08:32:05Z",
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84589
+            "stars": 84555
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T06:44:24Z",
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81350
+            "stars": 81302
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2023-11-18T16:32:16Z",
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30511
+            "stars": 30507
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-07-01T11:50:50Z",
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20337
+            "stars": 20338
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2023-05-28T15:31:22Z",
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7414
+            "stars": 7412
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2025-07-12T01:41:05Z",
             "owner": "cloudfavorites",
             "repo": "favorites-web",
-            "stars": 4847
+            "stars": 4846
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2024-03-07T06:31:25Z",
             "owner": "ZHENFENG13",
             "repo": "My-Blog",
-            "stars": 3893
+            "stars": 3892
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2022-02-07T06:09:47Z",
             "owner": "szerhusenBC",
             "repo": "jwt-spring-security-demo",
-            "stars": 3104
+            "stars": 3105
           }
         },
         {
@@ -426,7 +426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:21:56.067Z",
+    "last_updated": "2026-08-15T10:52:17.767Z",
     "original_repository": "ityouknow/awesome-spring-boot",
     "original_repository_sha": "a13a615724ad22d28487634e1f3df84274b84148",
     "enhanced_repository": "enhansome/enhansome-spring-boot",
