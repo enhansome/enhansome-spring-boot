@@ -14,7 +14,7 @@
             "last_commit": "2026-05-14T08:32:05Z",
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84555
+            "stars": 84556
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T06:44:24Z",
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81302
+            "stars": 81304
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2023-11-18T16:32:16Z",
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30507
+            "stars": 30508
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2024-11-25T00:07:39Z",
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28080
+            "stars": 28081
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2023-05-28T15:31:22Z",
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7412
+            "stars": 7413
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2025-07-12T01:41:05Z",
             "owner": "cloudfavorites",
             "repo": "favorites-web",
-            "stars": 4846
+            "stars": 4847
           }
         },
         {
@@ -426,7 +426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T10:52:17.767Z",
+    "last_updated": "2026-08-16T10:52:57.039Z",
     "original_repository": "ityouknow/awesome-spring-boot",
     "original_repository_sha": "a13a615724ad22d28487634e1f3df84274b84148",
     "enhanced_repository": "enhansome/enhansome-spring-boot",
