@@ -14,7 +14,7 @@
             "last_commit": "2026-05-14T08:32:05Z",
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84564
+            "stars": 84576
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T14:34:12Z",
+            "last_commit": "2026-08-17T19:53:26Z",
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81306
+            "stars": 81313
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2023-11-18T16:32:16Z",
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30506
+            "stars": 30507
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2024-11-25T00:07:39Z",
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28079
+            "stars": 28078
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-12T11:16:21Z",
             "owner": "hs-web",
             "repo": "hsweb-framework",
-            "stars": 8400
+            "stars": 8401
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2023-05-28T15:31:22Z",
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7412
+            "stars": 7411
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2024-03-07T06:31:25Z",
             "owner": "ZHENFENG13",
             "repo": "My-Blog",
-            "stars": 3891
+            "stars": 3890
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2023-12-05T14:11:58Z",
             "owner": "microservices-demo",
             "repo": "microservices-demo",
-            "stars": 3783
+            "stars": 3782
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2024-08-26T16:16:06Z",
             "owner": "java-aodeng",
             "repo": "hope-boot",
-            "stars": 3234
+            "stars": 3233
           }
         },
         {
@@ -418,7 +418,7 @@
             "last_commit": "2022-10-19T06:41:49Z",
             "owner": "ityouknow",
             "repo": "awesome-list",
-            "stars": 529
+            "stars": 530
           }
         }
       ],
@@ -426,7 +426,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:59:25.466Z",
+    "last_updated": "2026-08-18T10:58:43.707Z",
     "original_repository": "ityouknow/awesome-spring-boot",
     "original_repository_sha": "a13a615724ad22d28487634e1f3df84274b84148",
     "enhanced_repository": "enhansome/enhansome-spring-boot",
