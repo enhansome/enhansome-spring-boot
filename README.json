@@ -15,7 +15,7 @@
             "last_commit": "2026-05-14T08:32:05Z",
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84574
+            "stars": 84575
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T19:53:26Z",
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81321
+            "stars": 81322
           }
         },
         {
@@ -449,8 +449,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:57:51.245Z",
+    "last_updated": "2026-08-19T12:54:38.566Z",
     "original_repository": "ityouknow/awesome-spring-boot",
+    "original_repository_id": 120737551,
     "original_repository_sha": "a13a615724ad22d28487634e1f3df84274b84148",
     "enhanced_repository": "enhansome/enhansome-spring-boot",
     "enhanced_repository_description": null,
