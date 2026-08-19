@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127988011,
             "language": "Java",
             "last_commit": "2026-05-14T08:32:05Z",
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84576
+            "stars": 84574
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6296790,
             "language": "Java",
             "last_commit": "2026-08-17T19:53:26Z",
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81313
+            "stars": 81321
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72907253,
             "language": "Java",
             "last_commit": "2023-11-18T16:32:16Z",
             "owner": "ityouknow",
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116237823,
             "language": "Java",
             "last_commit": "2024-11-25T00:07:39Z",
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28078
+            "stars": 28077
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126365965,
             "language": "Java",
             "last_commit": "2026-07-01T11:50:50Z",
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20338
+            "stars": 20339
           }
         },
         {
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95208623,
             "language": "Java",
             "last_commit": "2023-12-17T23:35:07Z",
             "owner": "lihengming",
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49850704,
             "language": "Java",
             "last_commit": "2026-08-12T11:16:21Z",
             "owner": "hs-web",
             "repo": "hsweb-framework",
-            "stars": 8401
+            "stars": 8400
           }
         },
         {
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115414519,
             "language": "Java",
             "last_commit": "2023-05-28T15:31:22Z",
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7411
+            "stars": 7412
           }
         },
         {
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65176628,
             "language": "HTML",
             "last_commit": "2025-07-12T01:41:05Z",
             "owner": "cloudfavorites",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96391112,
             "language": "Vue",
             "last_commit": "2025-11-15T13:20:19Z",
             "owner": "stylefeng",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173712402,
             "language": "Java",
             "last_commit": "2024-03-07T06:31:25Z",
             "owner": "ZHENFENG13",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 59492847,
             "language": "Python",
             "last_commit": "2023-12-05T14:11:58Z",
             "owner": "microservices-demo",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153417149,
             "language": "Java",
             "last_commit": "2024-08-26T16:16:06Z",
             "owner": "java-aodeng",
@@ -192,11 +205,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54335585,
             "language": "Java",
             "last_commit": "2022-02-07T06:09:47Z",
             "owner": "szerhusenBC",
             "repo": "jwt-spring-security-demo",
-            "stars": 3106
+            "stars": 3107
           }
         },
         {
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192877283,
             "language": "Java",
             "last_commit": "2025-07-12T01:27:54Z",
             "owner": "geekidea",
@@ -220,11 +235,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20640121,
             "language": "JavaScript",
             "last_commit": "2026-08-17T01:28:57Z",
             "owner": "leehaut",
             "repo": "spring-boot-all",
-            "stars": 1936
+            "stars": 1935
           }
         },
         {
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79034430,
             "language": "Java",
             "last_commit": "2026-03-19T16:05:36Z",
             "owner": "YeDaxia",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 43211941,
             "language": "Java",
             "last_commit": "2020-03-19T05:54:33Z",
             "owner": "Raysmond",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88159866,
             "language": "Java",
             "last_commit": "2022-10-12T19:52:30Z",
             "owner": "timebusker",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98797746,
             "language": "Java",
             "last_commit": "2022-06-17T01:46:42Z",
             "owner": "ChinaLHR",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84422585,
             "language": "Java",
             "last_commit": "2024-12-27T11:15:46Z",
             "owner": "kingschan1204",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20790065,
             "language": "JavaScript",
             "last_commit": "2023-02-22T08:09:55Z",
             "owner": "vito16",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 112063190,
             "language": "Kotlin",
             "last_commit": "2021-12-06T01:53:39Z",
             "owner": "zhudyos",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189622043,
             "language": "Java",
             "last_commit": "2025-07-12T02:05:24Z",
             "owner": "lvyahui8",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181712273,
             "language": null,
             "last_commit": "2019-05-13T13:56:02Z",
             "owner": "liuzhengwei127",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237575387,
             "language": "Java",
             "last_commit": "2026-08-14T08:01:26Z",
             "owner": "ruibaby",
@@ -374,24 +400,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 228976248,
             "language": "Java",
             "last_commit": "2024-08-14T08:36:24Z",
             "owner": "senssic",
             "repo": "sc-whorl",
             "stars": 22
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Spring boot & Shiro 权限管理系统",
-          "description": null,
-          "children": []
         }
       ],
       "title": "开源"
     },
     {
-      "description": "",
+      "description": "关注公众号：纯洁的微笑，回复\"springboot\"进群交流",
       "items": [
         {
           "node_type": "item",
@@ -400,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120737656,
             "language": null,
             "last_commit": "2020-10-16T15:03:45Z",
             "owner": "ityouknow",
@@ -414,11 +436,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94524551,
             "language": null,
             "last_commit": "2022-10-19T06:41:49Z",
             "owner": "ityouknow",
             "repo": "awesome-list",
-            "stars": 530
+            "stars": 531
           }
         }
       ],
@@ -426,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:58:43.707Z",
+    "last_updated": "2026-08-19T10:57:51.245Z",
     "original_repository": "ityouknow/awesome-spring-boot",
     "original_repository_sha": "a13a615724ad22d28487634e1f3df84274b84148",
     "enhanced_repository": "enhansome/enhansome-spring-boot",

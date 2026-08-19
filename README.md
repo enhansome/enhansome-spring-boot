@@ -38,22 +38,22 @@
 
 ## 开源
 
-* [mall-SpringBoot+MyBatis 电商系统](https://github.com/macrozheng/mall) ⭐ 84,576 | 🐛 19 | 🌐 Java | 📅 2026-05-14
-* [Spring Boot 官方示例](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples) ⭐ 81,313 | 🐛 561 | 🌐 Java | 📅 2026-08-17
+* [mall-SpringBoot+MyBatis 电商系统](https://github.com/macrozheng/mall) ⭐ 84,574 | 🐛 17 | 🌐 Java | 📅 2026-05-14
+* [Spring Boot 官方示例](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples) ⭐ 81,321 | 🐛 561 | 🌐 Java | 📅 2026-08-17
 * [纯洁的微笑 Spring Boot 示例](https://github.com/ityouknow/spring-boot-examples) ⭐ 30,507 | 🐛 17 | 🌐 Java | 📅 2023-11-18
-* [Vue+SpringBoot实现的人力资源管理系统](https://github.com/lenve/vhr) ⭐ 28,078 | 🐛 216 | 🌐 Java | 📅 2024-11-25
-* [Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端](https://github.com/linlinjava/litemall) ⭐ 20,338 | 🐛 52 | 🌐 Java | 📅 2026-07-01
+* [Vue+SpringBoot实现的人力资源管理系统](https://github.com/lenve/vhr) ⭐ 28,077 | 🐛 216 | 🌐 Java | 📅 2024-11-25
+* [Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端](https://github.com/linlinjava/litemall) ⭐ 20,339 | 🐛 52 | 🌐 Java | 📅 2026-07-01
 * [一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed) ⭐ 9,692 | 🐛 112 | 🌐 Java | 📅 2023-12-17
-* [hsweb企业后台管理系统基础框架](https://github.com/hs-web/hsweb-framework) ⭐ 8,401 | 🐛 8 | 🌐 Java | 📅 2026-08-12
-* [Vue+SpringBoot实现的多用户博客管理平台](https://github.com/lenve/VBlog) ⭐ 7,411 | 🐛 68 | 🌐 Java | 📅 2023-05-28
+* [hsweb企业后台管理系统基础框架](https://github.com/hs-web/hsweb-framework) ⭐ 8,400 | 🐛 8 | 🌐 Java | 📅 2026-08-12
+* [Vue+SpringBoot实现的多用户博客管理平台](https://github.com/lenve/VBlog) ⭐ 7,412 | 🐛 68 | 🌐 Java | 📅 2023-05-28
 * [Spring Boot开源软件 云收藏](https://github.com/cloudfavorites/favorites-web) ⭐ 4,845 | 🐛 14 | 🌐 HTML | 📅 2025-07-12
 * [Guns-基于SpringBoot的后台管理系统](https://github.com/stylefeng/Guns) ⭐ 3,975 | 🐛 60 | 🌐 Vue | 📅 2025-11-15
 * [Docker+SpringBoot+Mybatis+thymeleaf等技术实现的Java博客系统](https://github.com/ZHENFENG13/My-Blog) ⭐ 3,890 | 🐛 24 | 🌐 Java | 📅 2024-03-07
 * [Deployment scripts & config for Sock Shop](https://github.com/microservices-demo/microservices-demo) ⚠️ Archived
 * [Spring Boot 2.x 现代化的脚手架项目](https://github.com/hope-for/hope-boot) ⭐ 3,233 | 🐛 7 | 🌐 Java | 📅 2024-08-26
-* [JWT (Json Web Token) with Spring Security and Spring Boot 2](https://github.com/szerhusenBC/jwt-spring-security-demo) ⭐ 3,106 | 🐛 10 | 🌐 Java | 📅 2022-02-07
+* [JWT (Json Web Token) with Spring Security and Spring Boot 2](https://github.com/szerhusenBC/jwt-spring-security-demo) ⭐ 3,107 | 🐛 10 | 🌐 Java | 📅 2022-02-07
 * [Spring-Boot-Plus 后台快速开发脚手架](https://github.com/geekidea/spring-boot-plus) ⭐ 2,518 | 🐛 4 | 🌐 Java | 📅 2025-07-12
-* [spring-boot各种示例](https://github.com/leelance/spring-boot-all) ⭐ 1,936 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-17
+* [spring-boot各种示例](https://github.com/leelance/spring-boot-all) ⭐ 1,935 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-17
 * [JApiDocs：无需注解的 SpringBoot API文档生成工具](https://github.com/YeDaxia/JApiDocs) ⭐ 1,695 | 🐛 37 | 🌐 Java | 📅 2026-03-19
 * [Spring Boot开源博客](https://github.com/Raysmond/SpringBlog) ⚠️ Archived
 * [Spring Boot项目实践总结](https://github.com/timebusker/spring-boot) ⭐ 1,271 | 🐛 13 | 🌐 Java | 📅 2022-10-12
@@ -85,12 +85,12 @@
 * [Spring Boot 参考指南- 英文版](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 * [网易云课堂Spring Boot视频](http://study.163.com/courses-search?keyword=Spring%20Boot)
 * [慕课网Spring Boot视频](https://www.imooc.com/search/?words=spring%20boot)
-* [开源书籍-微服务：从设计到部署](https://github.com/oopsguy/microservices-from-design-to-deployment-chinese) ⭐ 5,169 | 🐛 2 | 📅 2019-07-18
+* [开源书籍-微服务：从设计到部署](https://github.com/oopsguy/microservices-from-design-to-deployment-chinese) ⭐ 5,170 | 🐛 2 | 📅 2019-07-18
 
 ## 其它
 
 * [Spring Cloud 中文索引](https://github.com/ityouknow/awesome-spring-cloud) ⭐ 1,468 | 🐛 4 | 📅 2020-10-16
-* [IT行业中文资源大全](https://github.com/ityouknow/awesome-list) ⭐ 530 | 🐛 1 | 📅 2022-10-19
+* [IT行业中文资源大全](https://github.com/ityouknow/awesome-list) ⭐ 531 | 🐛 1 | 📅 2022-10-19
 * [知乎-Spring Boot要如何学习？](https://www.zhihu.com/question/53729800/answer/311948415)
 * [程序员导航网站](http://tooool.org/)
 * [很多的 Hello Demo](https://github.com/hellokoding)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
