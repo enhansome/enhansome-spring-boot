@@ -15,7 +15,7 @@
             "last_commit": "2026-05-14T08:32:05Z",
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84575
+            "stars": 84585
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 6296790,
             "language": "Java",
-            "last_commit": "2026-08-17T19:53:26Z",
+            "last_commit": "2026-08-20T07:24:29Z",
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81322
+            "stars": 81327
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2023-11-18T16:32:16Z",
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30507
+            "stars": 30509
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-11-25T00:07:39Z",
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28077
+            "stars": 28078
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 126365965,
             "language": "Java",
-            "last_commit": "2026-07-01T11:50:50Z",
+            "last_commit": "2026-08-20T00:43:07Z",
             "owner": "linlinjava",
             "repo": "litemall",
             "stars": 20339
@@ -120,7 +120,7 @@
             "last_commit": "2023-05-28T15:31:22Z",
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7412
+            "stars": 7411
           }
         },
         {
@@ -387,7 +387,7 @@
             "archived": false,
             "id": 237575387,
             "language": "Java",
-            "last_commit": "2026-08-14T08:01:26Z",
+            "last_commit": "2026-08-20T08:41:31Z",
             "owner": "ruibaby",
             "repo": "halo",
             "stars": 93
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:54:38.566Z",
+    "last_updated": "2026-08-20T11:00:35.544Z",
     "original_repository": "ityouknow/awesome-spring-boot",
     "original_repository_id": 120737551,
     "original_repository_sha": "a13a615724ad22d28487634e1f3df84274b84148",
