@@ -27,10 +27,10 @@
             "archived": false,
             "id": 6296790,
             "language": "Java",
-            "last_commit": "2026-08-20T07:24:29Z",
+            "last_commit": "2026-08-21T09:02:01Z",
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81327
+            "stars": 81328
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2023-11-18T16:32:16Z",
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30509
+            "stars": 30507
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-11-25T00:07:39Z",
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28078
+            "stars": 28082
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-20T00:43:07Z",
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20339
+            "stars": 20338
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2023-05-28T15:31:22Z",
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7411
+            "stars": 7410
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2025-11-15T13:20:19Z",
             "owner": "stylefeng",
             "repo": "Guns",
-            "stars": 3975
+            "stars": 3974
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2022-10-19T06:41:49Z",
             "owner": "ityouknow",
             "repo": "awesome-list",
-            "stars": 531
+            "stars": 532
           }
         }
       ],
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:00:35.544Z",
+    "last_updated": "2026-08-21T11:00:08.808Z",
     "original_repository": "ityouknow/awesome-spring-boot",
     "original_repository_id": 120737551,
     "original_repository_sha": "a13a615724ad22d28487634e1f3df84274b84148",
