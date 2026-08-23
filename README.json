@@ -15,7 +15,7 @@
             "last_commit": "2026-05-14T08:32:05Z",
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84597
+            "stars": 84609
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T09:02:01Z",
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81335
+            "stars": 81342
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2023-11-18T16:32:16Z",
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30506
+            "stars": 30504
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-12T11:16:21Z",
             "owner": "hs-web",
             "repo": "hsweb-framework",
-            "stars": 8400
+            "stars": 8399
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2023-02-22T08:09:55Z",
             "owner": "vito16",
             "repo": "shop",
-            "stars": 599
+            "stars": 598
           }
         },
         {
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T10:52:54.115Z",
+    "last_updated": "2026-08-23T10:53:31.586Z",
     "original_repository": "ityouknow/awesome-spring-boot",
     "original_repository_id": 120737551,
     "original_repository_sha": "a13a615724ad22d28487634e1f3df84274b84148",
