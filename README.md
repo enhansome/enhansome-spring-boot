@@ -38,10 +38,10 @@
 
 ## 开源
 
-* [mall-SpringBoot+MyBatis 电商系统](https://github.com/macrozheng/mall) ⭐ 84,615 | 🐛 18 | 🌐 Java | 📅 2026-05-14
-* [Spring Boot 官方示例](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples) ⭐ 81,351 | 🐛 510 | 🌐 Java | 📅 2026-08-24
-* [纯洁的微笑 Spring Boot 示例](https://github.com/ityouknow/spring-boot-examples) ⭐ 30,505 | 🐛 17 | 🌐 Java | 📅 2023-11-18
-* [Vue+SpringBoot实现的人力资源管理系统](https://github.com/lenve/vhr) ⭐ 28,081 | 🐛 216 | 🌐 Java | 📅 2024-11-25
+* [mall-SpringBoot+MyBatis 电商系统](https://github.com/macrozheng/mall) ⭐ 84,614 | 🐛 18 | 🌐 Java | 📅 2026-05-14
+* [Spring Boot 官方示例](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples) ⭐ 81,352 | 🐛 512 | 🌐 Java | 📅 2026-08-24
+* [纯洁的微笑 Spring Boot 示例](https://github.com/ityouknow/spring-boot-examples) ⭐ 30,504 | 🐛 17 | 🌐 Java | 📅 2023-11-18
+* [Vue+SpringBoot实现的人力资源管理系统](https://github.com/lenve/vhr) ⭐ 28,080 | 🐛 216 | 🌐 Java | 📅 2024-11-25
 * [Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端](https://github.com/linlinjava/litemall) ⭐ 20,338 | 🐛 54 | 🌐 Java | 📅 2026-08-20
 * [一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed) ⭐ 9,692 | 🐛 112 | 🌐 Java | 📅 2023-12-17
 * [hsweb企业后台管理系统基础框架](https://github.com/hs-web/hsweb-framework) ⭐ 8,400 | 🐛 8 | 🌐 Java | 📅 2026-08-12
