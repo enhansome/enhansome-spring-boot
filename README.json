@@ -15,7 +15,7 @@
             "last_commit": "2026-05-14T08:32:05Z",
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84609
+            "stars": 84615
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 6296790,
             "language": "Java",
-            "last_commit": "2026-08-21T09:02:01Z",
+            "last_commit": "2026-08-24T08:50:25Z",
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81342
+            "stars": 81351
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2023-11-18T16:32:16Z",
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30504
+            "stars": 30505
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-11-25T00:07:39Z",
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28082
+            "stars": 28081
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-20T00:43:07Z",
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20339
+            "stars": 20338
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-12T11:16:21Z",
             "owner": "hs-web",
             "repo": "hsweb-framework",
-            "stars": 8399
+            "stars": 8400
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2022-02-07T06:09:47Z",
             "owner": "szerhusenBC",
             "repo": "jwt-spring-security-demo",
-            "stars": 3107
+            "stars": 3106
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-17T01:28:57Z",
             "owner": "leehaut",
             "repo": "spring-boot-all",
-            "stars": 1935
+            "stars": 1936
           }
         },
         {
@@ -387,7 +387,7 @@
             "archived": false,
             "id": 237575387,
             "language": "Java",
-            "last_commit": "2026-08-20T08:41:31Z",
+            "last_commit": "2026-08-24T06:46:29Z",
             "owner": "ruibaby",
             "repo": "halo",
             "stars": 93
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:53:31.586Z",
+    "last_updated": "2026-08-24T11:04:09.772Z",
     "original_repository": "ityouknow/awesome-spring-boot",
     "original_repository_id": 120737551,
     "original_repository_sha": "a13a615724ad22d28487634e1f3df84274b84148",
