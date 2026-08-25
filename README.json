@@ -15,7 +15,7 @@
             "last_commit": "2026-05-14T08:32:05Z",
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84617
+            "stars": 84619
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 6296790,
             "language": "Java",
-            "last_commit": "2026-08-25T02:11:17Z",
+            "last_commit": "2026-08-25T08:27:28Z",
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81358
+            "stars": 81361
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-11-25T00:07:39Z",
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28080
+            "stars": 28079
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-20T00:43:07Z",
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20338
+            "stars": 20337
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2023-12-17T23:35:07Z",
             "owner": "lihengming",
             "repo": "spring-boot-api-project-seed",
-            "stars": 9693
+            "stars": 9692
           }
         },
         {
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:54:38.515Z",
+    "last_updated": "2026-08-25T11:02:07.978Z",
     "original_repository": "ityouknow/awesome-spring-boot",
     "original_repository_id": 120737551,
     "original_repository_sha": "a13a615724ad22d28487634e1f3df84274b84148",
