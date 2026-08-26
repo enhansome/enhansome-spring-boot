@@ -15,7 +15,7 @@
             "last_commit": "2026-05-14T08:32:05Z",
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84619
+            "stars": 84630
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 6296790,
             "language": "Java",
-            "last_commit": "2026-08-25T08:27:28Z",
+            "last_commit": "2026-08-26T09:56:11Z",
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81361
+            "stars": 81365
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-11-25T00:07:39Z",
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28079
+            "stars": 28077
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-12T11:16:21Z",
             "owner": "hs-web",
             "repo": "hsweb-framework",
-            "stars": 8400
+            "stars": 8401
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2023-12-05T14:11:58Z",
             "owner": "microservices-demo",
             "repo": "microservices-demo",
-            "stars": 3782
+            "stars": 3783
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2024-12-27T11:15:46Z",
             "owner": "kingschan1204",
             "repo": "istock",
-            "stars": 846
+            "stars": 847
           }
         },
         {
@@ -387,7 +387,7 @@
             "archived": false,
             "id": 237575387,
             "language": "Java",
-            "last_commit": "2026-08-24T06:46:29Z",
+            "last_commit": "2026-08-26T04:09:14Z",
             "owner": "ruibaby",
             "repo": "halo",
             "stars": 93
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:02:07.978Z",
+    "last_updated": "2026-08-26T11:04:12.865Z",
     "original_repository": "ityouknow/awesome-spring-boot",
     "original_repository_id": 120737551,
     "original_repository_sha": "a13a615724ad22d28487634e1f3df84274b84148",
