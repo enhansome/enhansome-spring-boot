@@ -2,7 +2,7 @@
 
 收集各种 Spring Boot 学习资源
 
-[参与贡献](https://github.com/ityouknow/awesome-spring-boot/issues/1) ⭐ 4,556 | 🐛 17 | 📅 2024-05-25
+[参与贡献](https://github.com/ityouknow/awesome-spring-boot/issues/1) ⭐ 4,557 | 🐛 17 | 📅 2024-05-25
 
 ## 目录
 
@@ -38,19 +38,19 @@
 
 ## 开源
 
-* [mall-SpringBoot+MyBatis 电商系统](https://github.com/macrozheng/mall) ⭐ 84,646 | 🐛 17 | 🌐 Java | 📅 2026-05-14
-* [Spring Boot 官方示例](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples) ⭐ 81,374 | 🐛 487 | 🌐 Java | 📅 2026-08-27
+* [mall-SpringBoot+MyBatis 电商系统](https://github.com/macrozheng/mall) ⭐ 84,650 | 🐛 17 | 🌐 Java | 📅 2026-05-14
+* [Spring Boot 官方示例](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples) ⭐ 81,375 | 🐛 489 | 🌐 Java | 📅 2026-08-27
 * [纯洁的微笑 Spring Boot 示例](https://github.com/ityouknow/spring-boot-examples) ⭐ 30,503 | 🐛 17 | 🌐 Java | 📅 2023-11-18
-* [Vue+SpringBoot实现的人力资源管理系统](https://github.com/lenve/vhr) ⭐ 28,076 | 🐛 216 | 🌐 Java | 📅 2024-11-25
-* [Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端](https://github.com/linlinjava/litemall) ⭐ 20,340 | 🐛 54 | 🌐 Java | 📅 2026-08-20
-* [一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed) ⭐ 9,692 | 🐛 112 | 🌐 Java | 📅 2023-12-17
+* [Vue+SpringBoot实现的人力资源管理系统](https://github.com/lenve/vhr) ⭐ 28,075 | 🐛 216 | 🌐 Java | 📅 2024-11-25
+* [Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端](https://github.com/linlinjava/litemall) ⭐ 20,342 | 🐛 54 | 🌐 Java | 📅 2026-08-20
+* [一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed) ⭐ 9,691 | 🐛 112 | 🌐 Java | 📅 2023-12-17
 * [hsweb企业后台管理系统基础框架](https://github.com/hs-web/hsweb-framework) ⭐ 8,400 | 🐛 8 | 🌐 Java | 📅 2026-08-12
 * [Vue+SpringBoot实现的多用户博客管理平台](https://github.com/lenve/VBlog) ⭐ 7,410 | 🐛 68 | 🌐 Java | 📅 2023-05-28
 * [Spring Boot开源软件 云收藏](https://github.com/cloudfavorites/favorites-web) ⭐ 4,845 | 🐛 14 | 🌐 HTML | 📅 2025-07-12
 * [Guns-基于SpringBoot的后台管理系统](https://github.com/stylefeng/Guns) ⭐ 3,974 | 🐛 60 | 🌐 Vue | 📅 2025-11-15
 * [Docker+SpringBoot+Mybatis+thymeleaf等技术实现的Java博客系统](https://github.com/ZHENFENG13/My-Blog) ⭐ 3,891 | 🐛 25 | 🌐 Java | 📅 2024-03-07
 * [Deployment scripts & config for Sock Shop](https://github.com/microservices-demo/microservices-demo) ⚠️ Archived
-* [Spring Boot 2.x 现代化的脚手架项目](https://github.com/hope-for/hope-boot) ⭐ 3,233 | 🐛 7 | 🌐 Java | 📅 2024-08-26
+* [Spring Boot 2.x 现代化的脚手架项目](https://github.com/hope-for/hope-boot) ⭐ 3,232 | 🐛 7 | 🌐 Java | 📅 2024-08-26
 * [JWT (Json Web Token) with Spring Security and Spring Boot 2](https://github.com/szerhusenBC/jwt-spring-security-demo) ⭐ 3,107 | 🐛 10 | 🌐 Java | 📅 2022-02-07
 * [Spring-Boot-Plus 后台快速开发脚手架](https://github.com/geekidea/spring-boot-plus) ⭐ 2,517 | 🐛 4 | 🌐 Java | 📅 2025-07-12
 * [spring-boot各种示例](https://github.com/leelance/spring-boot-all) ⭐ 1,936 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-17
@@ -59,11 +59,11 @@
 * [Spring Boot项目实践总结](https://github.com/timebusker/spring-boot) ⭐ 1,272 | 🐛 13 | 🌐 Java | 📅 2022-10-12
 * [Spring Boot 实现的简易社区](https://github.com/ChinaLHR/JavaQuarkBBS) ⭐ 894 | 🐛 7 | 🌐 Java | 📅 2022-06-17
 * [一个基于spring boot 实现的股票指数💹爬虫](https://github.com/kingschan1204/istock) ⭐ 847 | 🐛 20 | 🌐 Java | 📅 2024-12-27
-* [基于Spring-boot和bootstrap搭建的商城系统](https://github.com/vito16/shop) ⭐ 598 | 🐛 10 | 🌐 JavaScript | 📅 2023-02-22
+* [基于Spring-boot和bootstrap搭建的商城系统](https://github.com/vito16/shop) ⭐ 597 | 🐛 10 | 🌐 JavaScript | 📅 2023-02-22
 * [zhudyos/duic Distributed configuration center（分布式配置中心）:new:](https://github.com/zhudyos/duic) ⚠️ Archived
 * [当Parallel遇上了DI - SpringBoot并行聚合最佳实践](https://github.com/lvyahui8/spring-boot-data-aggregator) ⭐ 179 | 🐛 7 | 🌐 Java | 📅 2025-07-12
 * [Vue+SpringBoot实现的实体书购买平台](https://github.com/liuzhengwei127/Ebook) ⭐ 132 | 🐛 6 | 📅 2019-05-13
-* [halo-基于SpringBoot的博客系统](https://github.com/ruibaby/halo) ⭐ 93 | 🐛 1 | 🌐 Java | 📅 2026-08-27
+* [halo-基于SpringBoot的博客系统](https://github.com/ruibaby/halo) ⭐ 93 | 🐛 1 | 🌐 Java | 📅 2026-08-28
 * [基于Spring Boot2.0 微服务脚手架](https://github.com/Senssic/sc-whorl) ⭐ 22 | 🐛 0 | 🌐 Java | 📅 2024-08-14
 * [Spring boot & Shiro 权限管理系统](https://github.com/wuyouzhuguli/FEBS)
 * [Spring Boot实现支付服务：支付宝，微信...](https://gitee.com/52itstyle/spring-boot-pay)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

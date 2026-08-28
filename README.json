@@ -15,8 +15,9 @@
             "last_commit": "2026-05-14T08:32:05Z",
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84646
-          }
+            "stars": 84650
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-27T13:58:34Z",
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81374
-          }
+            "stars": 81375
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
             "stars": 30503
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2024-11-25T00:07:39Z",
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28076
-          }
+            "stars": 28075
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-08-20T00:43:07Z",
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20340
-          }
+            "stars": 20342
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2023-12-17T23:35:07Z",
             "owner": "lihengming",
             "repo": "spring-boot-api-project-seed",
-            "stars": 9692
-          }
+            "stars": 9691
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "hs-web",
             "repo": "hsweb-framework",
             "stars": 8400
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "lenve",
             "repo": "VBlog",
             "stars": 7410
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "cloudfavorites",
             "repo": "favorites-web",
             "stars": 4845
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "stylefeng",
             "repo": "Guns",
             "stars": 3974
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "ZHENFENG13",
             "repo": "My-Blog",
             "stars": 3891
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "microservices-demo",
             "repo": "microservices-demo",
             "stars": 3783
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -195,8 +207,9 @@
             "last_commit": "2024-08-26T16:16:06Z",
             "owner": "java-aodeng",
             "repo": "hope-boot",
-            "stars": 3233
-          }
+            "stars": 3232
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "szerhusenBC",
             "repo": "jwt-spring-security-demo",
             "stars": 3107
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "geekidea",
             "repo": "spring-boot-plus",
             "stars": 2517
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "leehaut",
             "repo": "spring-boot-all",
             "stars": 1936
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "YeDaxia",
             "repo": "JApiDocs",
             "stars": 1695
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "Raysmond",
             "repo": "SpringBlog",
             "stars": 1644
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "timebusker",
             "repo": "spring-boot",
             "stars": 1272
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "ChinaLHR",
             "repo": "JavaQuarkBBS",
             "stars": 894
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "kingschan1204",
             "repo": "istock",
             "stars": 847
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -330,8 +351,9 @@
             "last_commit": "2023-02-22T08:09:55Z",
             "owner": "vito16",
             "repo": "shop",
-            "stars": 598
-          }
+            "stars": 597
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "zhudyos",
             "repo": "duic",
             "stars": 290
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "lvyahui8",
             "repo": "spring-boot-data-aggregator",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "liuzhengwei127",
             "repo": "Ebook",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -387,11 +412,12 @@
             "archived": false,
             "id": 237575387,
             "language": "Java",
-            "last_commit": "2026-08-27T08:33:00Z",
+            "last_commit": "2026-08-28T10:46:43Z",
             "owner": "ruibaby",
             "repo": "halo",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -406,7 +432,8 @@
             "owner": "senssic",
             "repo": "sc-whorl",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         }
       ],
       "title": "开源"
@@ -427,7 +454,8 @@
             "owner": "ityouknow",
             "repo": "awesome-spring-cloud",
             "stars": 1468
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         },
         {
           "node_type": "item",
@@ -442,14 +470,15 @@
             "owner": "ityouknow",
             "repo": "awesome-list",
             "stars": 533
-          }
+          },
+          "first_seen": "2026-08-28T21:13:23.842Z"
         }
       ],
       "title": "其它"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:42:42.292Z",
+    "last_updated": "2026-08-28T21:13:23.842Z",
     "original_repository_info": {
       "archived": false,
       "id": 120737551,
@@ -457,7 +486,7 @@
       "last_commit": "2024-05-25T13:46:41Z",
       "owner": "ityouknow",
       "repo": "awesome-spring-boot",
-      "stars": 4556
+      "stars": 4557
     },
     "original_repository_sha": "a13a615724ad22d28487634e1f3df84274b84148",
     "enhanced_repository": "enhansome/enhansome-spring-boot",
