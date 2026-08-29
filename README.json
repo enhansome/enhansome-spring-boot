@@ -10,12 +10,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+            "homepage": "https://www.macrozheng.com/admin/",
             "id": 127988011,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-14T08:32:05Z",
+            "open_issues": 17,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84650
+            "stars": 84652,
+            "topics": [
+              "docker",
+              "elasticsearch",
+              "elk",
+              "java",
+              "mongodb",
+              "mybatis",
+              "mysql",
+              "rabbitmq",
+              "redis",
+              "spring",
+              "spring-boot",
+              "spring-cloud",
+              "spring-security",
+              "springboot",
+              "springcloud",
+              "swagger-ui"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -26,12 +48,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+            "homepage": "https://spring.io/projects/spring-boot",
             "id": 6296790,
             "language": "Java",
-            "last_commit": "2026-08-27T13:58:34Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:54:18Z",
+            "open_issues": 488,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81375
+            "stars": 81376,
+            "topics": [
+              "framework",
+              "java",
+              "spring",
+              "spring-boot"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -42,12 +74,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 ",
+            "homepage": "http://www.ityouknow.com/spring-boot.html",
             "id": 72907253,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-11-18T16:32:16Z",
+            "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30503
+            "stars": 30503,
+            "topics": [
+              "docker",
+              "docker-composer",
+              "fastdfs",
+              "java",
+              "mongodb",
+              "mybatis",
+              "rabbitmq",
+              "scheduler",
+              "spring",
+              "spring-boot",
+              "spring-boot-examples",
+              "spring-boot-mail",
+              "spring-boot-mongodb",
+              "spring-boot-upload-file",
+              "spring-cloud",
+              "spring-data-jpa",
+              "springboot",
+              "springboot-shiro",
+              "springcloud",
+              "thymeleaf"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -58,12 +116,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。",
+            "homepage": "http://vhr.javaboy.org",
             "id": 116237823,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-11-25T00:07:39Z",
+            "open_issues": 216,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28075
+            "stars": 28075,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -74,12 +137,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端",
+            "homepage": null,
             "id": 126365965,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-20T00:43:07Z",
+            "open_issues": 54,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20342
+            "stars": 20342,
+            "topics": [
+              "litemall",
+              "mall",
+              "spring-boot",
+              "vue",
+              "wechat",
+              "wechat-mini-program"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -90,12 +165,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":seedling::rocket:一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~",
+            "homepage": null,
             "id": 95208623,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-12-17T23:35:07Z",
+            "open_issues": 112,
             "owner": "lihengming",
             "repo": "spring-boot-api-project-seed",
-            "stars": 9691
+            "stars": 9691,
+            "topics": [
+              "api",
+              "java",
+              "mapper",
+              "mybatis",
+              "mybatis-pagehelper",
+              "rest",
+              "restful",
+              "seed",
+              "spring-boot"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -106,12 +196,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "hsweb (haʊs wɛb) 是一个基于spring-boot 2.x开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。",
+            "homepage": "http://hsweb.me",
             "id": 49850704,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-12T11:16:21Z",
+            "open_issues": 8,
             "owner": "hs-web",
             "repo": "hsweb-framework",
-            "stars": 8400
+            "stars": 8400,
+            "topics": [
+              "hsweb",
+              "java",
+              "java8",
+              "javaweb",
+              "mybatis",
+              "r2dbc",
+              "reactive-streams",
+              "reactor",
+              "spring-boot",
+              "spring-webflux"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -122,12 +228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "V部落，Vue+SpringBoot实现的多用户博客管理平台!",
+            "homepage": "http://45.77.146.32:8081/index.html",
             "id": 115414519,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-05-28T15:31:22Z",
+            "open_issues": 68,
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7410
+            "stars": 7410,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -138,12 +249,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "云收藏 Spring Boot 2.X 开源项目",
+            "homepage": "http://favorites.ren/",
             "id": 65176628,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-07-12T01:41:05Z",
+            "open_issues": 14,
             "owner": "cloudfavorites",
             "repo": "favorites-web",
-            "stars": 4845
+            "stars": 4845,
+            "topics": [
+              "bootstrap",
+              "docker",
+              "favorites",
+              "jpa",
+              "spring",
+              "spring-boot",
+              "spring-data-jpa",
+              "spring-session",
+              "springboot",
+              "springdatajpa",
+              "springsession",
+              "thymeleaf",
+              "webjars"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -154,12 +284,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Guns是一个现代化的Java应用开发框架，基于主流技术Spring Boot3 + Vue3 + JDK17，Guns的核心理念是提高开发人员开发效率，降低企业信息化系统的开发成本。",
+            "homepage": null,
             "id": 96391112,
             "language": "Vue",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-15T13:20:19Z",
+            "open_issues": 60,
             "owner": "stylefeng",
             "repo": "Guns",
-            "stars": 3974
+            "stars": 3974,
+            "topics": [
+              "beetl",
+              "gun",
+              "guns",
+              "jwt",
+              "mybatis",
+              "mybatis-plus",
+              "rest",
+              "rest-api",
+              "spring-boot",
+              "springmvc-shiro-mybatis"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -170,12 +316,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":palm_tree::octocat:A simple & beautiful blogging system implemented with spring-boot & thymeleaf & mybatis My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验",
+            "homepage": "http://13blog.site",
             "id": 173712402,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-07T06:31:25Z",
+            "open_issues": 25,
             "owner": "ZHENFENG13",
             "repo": "My-Blog",
-            "stars": 3891
+            "stars": 3891,
+            "topics": [
+              "adminlte",
+              "adminlte3",
+              "blog",
+              "docker-compose",
+              "java",
+              "java-8",
+              "javablog",
+              "jqgrid",
+              "maven",
+              "mybatis",
+              "spring-boot",
+              "spring-boot-3",
+              "spring-boot2",
+              "springboot",
+              "springboot-learning",
+              "springboot-mybatis",
+              "springboot-sample",
+              "springboot2",
+              "springboot3",
+              "thymeleaf"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -186,12 +358,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Deployment scripts & config for Sock Shop",
+            "homepage": "https://microservices-demo.github.io/",
             "id": 59492847,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-05T14:11:58Z",
+            "open_issues": 112,
             "owner": "microservices-demo",
             "repo": "microservices-demo",
-            "stars": 3783
+            "stars": 3783,
+            "topics": [
+              "docker",
+              "ecs",
+              "golang",
+              "java",
+              "kubernetes",
+              "mesos",
+              "microservice",
+              "microservices-demo",
+              "nodejs",
+              "nomad",
+              "spring-boot"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -202,12 +391,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌱 一款现代化的脚手架项目",
+            "homepage": null,
             "id": 153417149,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-26T16:16:06Z",
+            "open_issues": 7,
             "owner": "java-aodeng",
             "repo": "hope-boot",
-            "stars": 3232
+            "stars": 3232,
+            "topics": [
+              "druid",
+              "flyway",
+              "hope",
+              "mapper",
+              "maven",
+              "mybatis",
+              "redis",
+              "shiro",
+              "shiro-redis",
+              "spring-boot",
+              "sso",
+              "swagger",
+              "thymeleaf"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -218,12 +426,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A demo for using JWT (Json Web Token) with Spring Security and Spring Boot 2",
+            "homepage": null,
             "id": 54335585,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2022-02-07T06:09:47Z",
+            "open_issues": 10,
             "owner": "szerhusenBC",
             "repo": "jwt-spring-security-demo",
-            "stars": 3107
+            "stars": 3107,
+            "topics": [
+              "authentication",
+              "demo",
+              "java",
+              "jwt",
+              "jwt-authentication",
+              "spring-boot",
+              "spring-security",
+              "springframework"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -234,12 +456,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":fire: Spring-Boot-Plus is an easy-to-use, high-speed, high-efficient,feature-rich, open source spring boot scaffolding. :rocket:",
+            "homepage": "https://springboot.plus",
             "id": 192877283,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-07-12T01:27:54Z",
+            "open_issues": 4,
             "owner": "geekidea",
             "repo": "spring-boot-plus",
-            "stars": 2517
+            "stars": 2517,
+            "topics": [
+              "centos",
+              "generator",
+              "knife4j",
+              "mybatis",
+              "mybatis-plus",
+              "redis",
+              "spring-boot",
+              "spring-boot-plus",
+              "springboot",
+              "swagger",
+              "swagger-ui"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -250,12 +489,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "spring-boot,mybatis,activemq,redis,email, freemarker,shiro,websocket,sitemesh,ehcache,easyui,kindeditor,quartz,springfox,swagger,jpa,hibernate,querydsl,netty",
+            "homepage": null,
             "id": 20640121,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T01:28:57Z",
+            "open_issues": 14,
             "owner": "leehaut",
             "repo": "spring-boot-all",
-            "stars": 1936
+            "stars": 1936,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -266,12 +510,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A magical api documentation generator without annotation for springboot. ",
+            "homepage": "https://japidocs.agilestudio.cn/",
             "id": 79034430,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-19T16:05:36Z",
+            "open_issues": 37,
             "owner": "YeDaxia",
             "repo": "JApiDocs",
-            "stars": 1695
+            "stars": 1695,
+            "topics": [
+              "api",
+              "api-documentation",
+              "apidocs",
+              "springboot"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -282,12 +536,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A simple blogging system implemented with Spring Boot + Hibernate + MySQL + Bootstrap4. ",
+            "homepage": "http://raysmond.com",
             "id": 43211941,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-03-19T05:54:33Z",
+            "open_issues": 21,
             "owner": "Raysmond",
             "repo": "SpringBlog",
-            "stars": 1644
+            "stars": 1644,
+            "topics": [
+              "blogging",
+              "spring-boot"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -298,12 +560,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "spring-boot 项目实践总结",
+            "homepage": null,
             "id": 88159866,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-10-12T19:52:30Z",
+            "open_issues": 13,
             "owner": "timebusker",
             "repo": "spring-boot",
-            "stars": 1272
+            "stars": 1272,
+            "topics": [
+              "aop",
+              "async",
+              "boot",
+              "cache",
+              "jpa",
+              "logs",
+              "mybatis",
+              "redis",
+              "schedule",
+              "security",
+              "spring",
+              "spring-boot",
+              "swagger"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -314,12 +595,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于Spring Boot实现的一个简易的Java社区",
+            "homepage": null,
             "id": 98797746,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-17T01:46:42Z",
+            "open_issues": 7,
             "owner": "ChinaLHR",
             "repo": "JavaQuarkBBS",
-            "stars": 894
+            "stars": 894,
+            "topics": [
+              "bootstrap",
+              "hibernate",
+              "jquery",
+              "layui",
+              "netty",
+              "redis",
+              "shiro",
+              "spring",
+              "spring-boot",
+              "spring-mvc",
+              "springdatajpa",
+              "swagger",
+              "thymeleaf",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -330,12 +631,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":point_right:一个基于spring boot 实现的java股票爬虫(仅支持A股)，如果你:heart:请:star: . V2升级版正在开发中！",
+            "homepage": null,
             "id": 84422585,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-12-27T11:15:46Z",
+            "open_issues": 20,
             "owner": "kingschan1204",
             "repo": "istock",
-            "stars": 847
+            "stars": 847,
+            "topics": [
+              "bootstrap",
+              "echarts",
+              "java",
+              "jqgrid",
+              "mongodb",
+              "spider",
+              "spring-boot",
+              "stock",
+              "vue2"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -346,12 +662,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于Spring-boot和bootstrap搭建的商城系统",
+            "homepage": null,
             "id": 20790065,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-22T08:09:55Z",
+            "open_issues": 10,
             "owner": "vito16",
             "repo": "shop",
-            "stars": 597
+            "stars": 597,
+            "topics": [
+              "bootstrap",
+              "java",
+              "shopping"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -362,12 +687,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "分布式配置中心，集中化配置管理，应用配置权限管理，配置实时更新等功能",
+            "homepage": "https://duic.zhudy.io/index.html",
             "id": 112063190,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-06T01:53:39Z",
+            "open_issues": 17,
             "owner": "zhudyos",
             "repo": "duic",
-            "stars": 290
+            "stars": 290,
+            "topics": [
+              "configuration",
+              "configuration-management",
+              "distributed-configuration",
+              "kotlin",
+              "spring-boot",
+              "spring-webflux"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -378,12 +715,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于注解实现并行地依赖注入（数据聚合），可以看做 Spring Async 注解的升级版",
+            "homepage": "https://github.com/lvyahui8/spring-boot-data-aggregator/wiki/%E5%A6%82%E4%BD%95%E5%BC%80%E5%A7%8B",
             "id": 189622043,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-12T02:05:24Z",
+            "open_issues": 7,
             "owner": "lvyahui8",
             "repo": "spring-boot-data-aggregator",
-            "stars": 179
+            "stars": 179,
+            "topics": [
+              "bean-mapping",
+              "concurrency",
+              "data-aggregation",
+              "parallel-processing",
+              "spring-boot"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -394,12 +742,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vue+SpringBoot实现的实体书购买平台",
+            "homepage": "http://47.100.236.223/ebook",
             "id": 181712273,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-05-13T13:56:02Z",
+            "open_issues": 6,
             "owner": "liuzhengwei127",
             "repo": "Ebook",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -410,12 +763,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Please click =>",
+            "homepage": "https://github.com/halo-dev/halo",
             "id": 237575387,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T10:46:43Z",
+            "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -426,12 +784,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "springboot2.x 脚手架 日志，缓存，分布式锁，分页，权限认证，等开箱即用",
+            "homepage": null,
             "id": 228976248,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-08-14T08:36:24Z",
+            "open_issues": 0,
             "owner": "senssic",
             "repo": "sc-whorl",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         }
@@ -448,12 +811,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spring Cloud 资源大全",
+            "homepage": "http://springcloud.fun/",
             "id": 120737656,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-16T15:03:45Z",
+            "open_issues": 4,
             "owner": "ityouknow",
             "repo": "awesome-spring-cloud",
-            "stars": 1468
+            "stars": 1468,
+            "topics": [
+              "spring-cloud",
+              "springcloud"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         },
@@ -464,12 +835,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "collect all  awesome about IT",
+            "homepage": null,
             "id": 94524551,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2022-10-19T06:41:49Z",
+            "open_issues": 1,
             "owner": "ityouknow",
             "repo": "awesome-list",
-            "stars": 533
+            "stars": 533,
+            "topics": [
+              "android",
+              "awesome",
+              "docker",
+              "frontend",
+              "go",
+              "interview",
+              "it",
+              "javascript",
+              "nodejs",
+              "opensource",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
         }
@@ -478,15 +866,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:13:23.842Z",
+    "last_updated": "2026-08-29T04:23:04.278Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Spring Boot Resources",
+      "homepage": "http://www.springboot.fun/",
       "id": 120737551,
       "language": null,
+      "license": null,
       "last_commit": "2024-05-25T13:46:41Z",
+      "open_issues": 17,
       "owner": "ityouknow",
       "repo": "awesome-spring-boot",
-      "stars": 4557
+      "stars": 4556,
+      "topics": [
+        "awesome",
+        "spring",
+        "spring-boot",
+        "springboot",
+        "springboot-learning",
+        "vue-springboot"
+      ]
     },
     "original_repository_sha": "a13a615724ad22d28487634e1f3df84274b84148",
     "enhanced_repository": "enhansome/enhansome-spring-boot",
