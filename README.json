@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84655,
+            "stars": 84662,
             "topics": [
               "docker",
               "elasticsearch",
@@ -54,10 +54,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T05:27:52Z",
-            "open_issues": 491,
+            "open_issues": 496,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81377,
+            "stars": 81376,
             "topics": [
               "framework",
               "java",
@@ -125,7 +125,7 @@
             "open_issues": 216,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28075,
+            "stars": 28076,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -174,7 +174,7 @@
             "open_issues": 112,
             "owner": "lihengming",
             "repo": "spring-boot-api-project-seed",
-            "stars": 9691,
+            "stars": 9692,
             "topics": [
               "api",
               "java",
@@ -258,7 +258,7 @@
             "open_issues": 14,
             "owner": "cloudfavorites",
             "repo": "favorites-web",
-            "stars": 4844,
+            "stars": 4845,
             "topics": [
               "bootstrap",
               "docker",
@@ -293,7 +293,7 @@
             "open_issues": 60,
             "owner": "stylefeng",
             "repo": "Guns",
-            "stars": 3974,
+            "stars": 3975,
             "topics": [
               "beetl",
               "gun",
@@ -325,7 +325,7 @@
             "open_issues": 25,
             "owner": "ZHENFENG13",
             "repo": "My-Blog",
-            "stars": 3891,
+            "stars": 3890,
             "topics": [
               "adminlte",
               "adminlte3",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:16:34.476Z",
+    "last_updated": "2026-08-30T14:56:30.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
@@ -878,7 +878,7 @@
       "open_issues": 17,
       "owner": "ityouknow",
       "repo": "awesome-spring-boot",
-      "stars": 4556,
+      "stars": 4555,
       "topics": [
         "awesome",
         "spring",
