@@ -16,10 +16,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-05-14T08:32:05Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84662,
+            "stars": 84667,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T05:27:52Z",
-            "open_issues": 496,
+            "last_commit": "2026-08-30T18:28:18Z",
+            "open_issues": 494,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81376,
+            "stars": 81392,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30502,
+            "stars": 30501,
             "topics": [
               "docker",
               "docker-composer",
@@ -125,7 +125,7 @@
             "open_issues": 216,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28076,
+            "stars": 28075,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -146,7 +146,7 @@
             "open_issues": 54,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20343,
+            "stars": 20344,
             "topics": [
               "litemall",
               "mall",
@@ -293,7 +293,7 @@
             "open_issues": 60,
             "owner": "stylefeng",
             "repo": "Guns",
-            "stars": 3975,
+            "stars": 3977,
             "topics": [
               "beetl",
               "gun",
@@ -325,7 +325,7 @@
             "open_issues": 25,
             "owner": "ZHENFENG13",
             "repo": "My-Blog",
-            "stars": 3890,
+            "stars": 3891,
             "topics": [
               "adminlte",
               "adminlte3",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:56:30.357Z",
+    "last_updated": "2026-08-31T17:41:50.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
