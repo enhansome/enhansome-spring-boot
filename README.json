@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84672,
+            "stars": 84685,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T04:25:07Z",
-            "open_issues": 491,
+            "last_commit": "2026-09-02T14:24:25Z",
+            "open_issues": 487,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81388,
+            "stars": 81396,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30498,
+            "stars": 30499,
             "topics": [
               "docker",
               "docker-composer",
@@ -125,7 +125,7 @@
             "open_issues": 216,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28073,
+            "stars": 28074,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -325,7 +325,7 @@
             "open_issues": 25,
             "owner": "ZHENFENG13",
             "repo": "My-Blog",
-            "stars": 3891,
+            "stars": 3892,
             "topics": [
               "adminlte",
               "adminlte3",
@@ -465,7 +465,7 @@
             "open_issues": 4,
             "owner": "geekidea",
             "repo": "spring-boot-plus",
-            "stars": 2517,
+            "stars": 2518,
             "topics": [
               "centos",
               "generator",
@@ -519,7 +519,7 @@
             "open_issues": 37,
             "owner": "YeDaxia",
             "repo": "JApiDocs",
-            "stars": 1695,
+            "stars": 1694,
             "topics": [
               "api",
               "api-documentation",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:08:03.598Z",
+    "last_updated": "2026-09-02T14:39:31.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
