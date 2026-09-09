@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84725,
+            "stars": 84729,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T12:57:39Z",
-            "open_issues": 479,
+            "last_commit": "2026-09-09T14:33:12Z",
+            "open_issues": 474,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81429,
+            "stars": 81419,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30498,
+            "stars": 30497,
             "topics": [
               "docker",
               "docker-composer",
@@ -125,7 +125,7 @@
             "open_issues": 216,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28073,
+            "stars": 28071,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -146,7 +146,7 @@
             "open_issues": 54,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20353,
+            "stars": 20355,
             "topics": [
               "litemall",
               "mall",
@@ -258,7 +258,7 @@
             "open_issues": 14,
             "owner": "cloudfavorites",
             "repo": "favorites-web",
-            "stars": 4842,
+            "stars": 4843,
             "topics": [
               "bootstrap",
               "docker",
@@ -325,7 +325,7 @@
             "open_issues": 25,
             "owner": "ZHENFENG13",
             "repo": "My-Blog",
-            "stars": 3892,
+            "stars": 3891,
             "topics": [
               "adminlte",
               "adminlte3",
@@ -465,7 +465,7 @@
             "open_issues": 4,
             "owner": "geekidea",
             "repo": "spring-boot-plus",
-            "stars": 2516,
+            "stars": 2517,
             "topics": [
               "centos",
               "generator",
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T13:43:10Z",
+            "last_commit": "2026-09-09T09:04:57Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T14:44:37.891Z",
+    "last_updated": "2026-09-09T14:46:27.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
