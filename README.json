@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84729,
+            "stars": 84735,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T14:33:12Z",
-            "open_issues": 474,
+            "last_commit": "2026-09-10T14:36:09Z",
+            "open_issues": 470,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81419,
+            "stars": 81416,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30497,
+            "stars": 30496,
             "topics": [
               "docker",
               "docker-composer",
@@ -174,7 +174,7 @@
             "open_issues": 112,
             "owner": "lihengming",
             "repo": "spring-boot-api-project-seed",
-            "stars": 9693,
+            "stars": 9692,
             "topics": [
               "api",
               "java",
@@ -205,7 +205,7 @@
             "open_issues": 8,
             "owner": "hs-web",
             "repo": "hsweb-framework",
-            "stars": 8396,
+            "stars": 8398,
             "topics": [
               "hsweb",
               "java",
@@ -237,7 +237,7 @@
             "open_issues": 68,
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7410,
+            "stars": 7411,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -435,7 +435,7 @@
             "open_issues": 10,
             "owner": "szerhusenBC",
             "repo": "jwt-spring-security-demo",
-            "stars": 3106,
+            "stars": 3105,
             "topics": [
               "authentication",
               "demo",
@@ -519,7 +519,7 @@
             "open_issues": 37,
             "owner": "YeDaxia",
             "repo": "JApiDocs",
-            "stars": 1694,
+            "stars": 1695,
             "topics": [
               "api",
               "api-documentation",
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T09:04:57Z",
+            "last_commit": "2026-09-10T10:07:00Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T14:46:27.874Z",
+    "last_updated": "2026-09-10T14:36:24.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
