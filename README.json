@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84747,
+            "stars": 84757,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T13:22:48Z",
-            "open_issues": 463,
+            "last_commit": "2026-09-12T06:29:29Z",
+            "open_issues": 472,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81417,
+            "stars": 81424,
             "topics": [
               "framework",
               "java",
@@ -125,7 +125,7 @@
             "open_issues": 216,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28066,
+            "stars": 28068,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -143,10 +143,10 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-20T00:43:07Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20356,
+            "stars": 20357,
             "topics": [
               "litemall",
               "mall",
@@ -258,7 +258,7 @@
             "open_issues": 14,
             "owner": "cloudfavorites",
             "repo": "favorites-web",
-            "stars": 4843,
+            "stars": 4844,
             "topics": [
               "bootstrap",
               "docker",
@@ -325,7 +325,7 @@
             "open_issues": 25,
             "owner": "ZHENFENG13",
             "repo": "My-Blog",
-            "stars": 3891,
+            "stars": 3890,
             "topics": [
               "adminlte",
               "adminlte3",
@@ -367,7 +367,7 @@
             "open_issues": 112,
             "owner": "microservices-demo",
             "repo": "microservices-demo",
-            "stars": 3783,
+            "stars": 3782,
             "topics": [
               "docker",
               "ecs",
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T10:54:46Z",
+            "last_commit": "2026-09-12T13:41:09Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T14:35:18.331Z",
+    "last_updated": "2026-09-12T13:42:41.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
