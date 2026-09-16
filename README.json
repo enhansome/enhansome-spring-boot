@@ -16,10 +16,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-15T02:34:44Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84769,
+            "stars": 84781,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T13:47:01Z",
+            "last_commit": "2026-09-16T14:15:53Z",
             "open_issues": 473,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81433,
+            "stars": 81446,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30493,
+            "stars": 30491,
             "topics": [
               "docker",
               "docker-composer",
@@ -146,7 +146,7 @@
             "open_issues": 55,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20358,
+            "stars": 20362,
             "topics": [
               "litemall",
               "mall",
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T14:11:32Z",
+            "last_commit": "2026-09-16T14:34:23Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T15:14:21.298Z",
+    "last_updated": "2026-09-16T15:08:22.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
@@ -878,7 +878,7 @@
       "open_issues": 17,
       "owner": "ityouknow",
       "repo": "awesome-spring-boot",
-      "stars": 4556,
+      "stars": 4558,
       "topics": [
         "awesome",
         "spring",
