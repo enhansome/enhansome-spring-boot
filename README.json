@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84799,
+            "stars": 84805,
             "topics": [
               "docker",
               "elasticsearch",
@@ -54,10 +54,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T19:53:21Z",
-            "open_issues": 470,
+            "open_issues": 473,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81472,
+            "stars": 81476,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30487,
+            "stars": 30488,
             "topics": [
               "docker",
               "docker-composer",
@@ -125,7 +125,7 @@
             "open_issues": 216,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28058,
+            "stars": 28056,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -146,7 +146,7 @@
             "open_issues": 55,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20366,
+            "stars": 20369,
             "topics": [
               "litemall",
               "mall",
@@ -237,7 +237,7 @@
             "open_issues": 68,
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7410,
+            "stars": 7409,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -293,7 +293,7 @@
             "open_issues": 60,
             "owner": "stylefeng",
             "repo": "Guns",
-            "stars": 3977,
+            "stars": 3976,
             "topics": [
               "beetl",
               "gun",
@@ -325,7 +325,7 @@
             "open_issues": 25,
             "owner": "ZHENFENG13",
             "repo": "My-Blog",
-            "stars": 3887,
+            "stars": 3888,
             "topics": [
               "adminlte",
               "adminlte3",
@@ -465,7 +465,7 @@
             "open_issues": 4,
             "owner": "geekidea",
             "repo": "spring-boot-plus",
-            "stars": 2518,
+            "stars": 2517,
             "topics": [
               "centos",
               "generator",
@@ -519,7 +519,7 @@
             "open_issues": 37,
             "owner": "YeDaxia",
             "repo": "JApiDocs",
-            "stars": 1695,
+            "stars": 1694,
             "topics": [
               "api",
               "api-documentation",
@@ -724,7 +724,7 @@
             "open_issues": 7,
             "owner": "lvyahui8",
             "repo": "spring-boot-data-aggregator",
-            "stars": 179,
+            "stars": 180,
             "topics": [
               "bean-mapping",
               "concurrency",
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T09:36:36Z",
+            "last_commit": "2026-09-20T07:34:20Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:58:35.597Z",
+    "last_updated": "2026-09-20T14:20:12.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
