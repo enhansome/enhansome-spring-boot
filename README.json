@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84805,
+            "stars": 84809,
             "topics": [
               "docker",
               "elasticsearch",
@@ -54,10 +54,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T19:53:21Z",
-            "open_issues": 473,
+            "open_issues": 472,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81476,
+            "stars": 81483,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30488,
+            "stars": 30487,
             "topics": [
               "docker",
               "docker-composer",
@@ -125,7 +125,7 @@
             "open_issues": 216,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28056,
+            "stars": 28057,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -258,7 +258,7 @@
             "open_issues": 14,
             "owner": "cloudfavorites",
             "repo": "favorites-web",
-            "stars": 4846,
+            "stars": 4847,
             "topics": [
               "bootstrap",
               "docker",
@@ -293,7 +293,7 @@
             "open_issues": 60,
             "owner": "stylefeng",
             "repo": "Guns",
-            "stars": 3976,
+            "stars": 3977,
             "topics": [
               "beetl",
               "gun",
@@ -325,7 +325,7 @@
             "open_issues": 25,
             "owner": "ZHENFENG13",
             "repo": "My-Blog",
-            "stars": 3888,
+            "stars": 3889,
             "topics": [
               "adminlte",
               "adminlte3",
@@ -435,7 +435,7 @@
             "open_issues": 10,
             "owner": "szerhusenBC",
             "repo": "jwt-spring-security-demo",
-            "stars": 3105,
+            "stars": 3106,
             "topics": [
               "authentication",
               "demo",
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-20T07:34:20Z",
+            "last_commit": "2026-09-21T08:07:40Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -844,7 +844,7 @@
             "open_issues": 1,
             "owner": "ityouknow",
             "repo": "awesome-list",
-            "stars": 533,
+            "stars": 534,
             "topics": [
               "android",
               "awesome",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:20:12.206Z",
+    "last_updated": "2026-09-21T16:33:53.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
@@ -878,7 +878,7 @@
       "open_issues": 17,
       "owner": "ityouknow",
       "repo": "awesome-spring-boot",
-      "stars": 4560,
+      "stars": 4561,
       "topics": [
         "awesome",
         "spring",
