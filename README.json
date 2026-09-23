@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84817,
+            "stars": 84827,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,8 +53,8 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T19:53:21Z",
-            "open_issues": 473,
+            "last_commit": "2026-09-22T19:53:59Z",
+            "open_issues": 474,
             "owner": "spring-projects",
             "repo": "spring-boot",
             "stars": 81484,
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30490,
+            "stars": 30492,
             "topics": [
               "docker",
               "docker-composer",
@@ -146,7 +146,7 @@
             "open_issues": 55,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20368,
+            "stars": 20371,
             "topics": [
               "litemall",
               "mall",
@@ -201,11 +201,11 @@
             "id": 49850704,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T10:19:52Z",
+            "last_commit": "2026-09-23T07:56:26Z",
             "open_issues": 8,
             "owner": "hs-web",
             "repo": "hsweb-framework",
-            "stars": 8397,
+            "stars": 8398,
             "topics": [
               "hsweb",
               "java",
@@ -400,7 +400,7 @@
             "open_issues": 7,
             "owner": "java-aodeng",
             "repo": "hope-boot",
-            "stars": 3231,
+            "stars": 3232,
             "topics": [
               "druid",
               "flyway",
@@ -465,7 +465,7 @@
             "open_issues": 4,
             "owner": "geekidea",
             "repo": "spring-boot-plus",
-            "stars": 2516,
+            "stars": 2517,
             "topics": [
               "centos",
               "generator",
@@ -671,7 +671,7 @@
             "open_issues": 10,
             "owner": "vito16",
             "repo": "shop",
-            "stars": 597,
+            "stars": 598,
             "topics": [
               "bootstrap",
               "java",
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-22T10:56:29Z",
+            "last_commit": "2026-09-23T08:41:14Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T15:08:19.893Z",
+    "last_updated": "2026-09-23T15:10:05.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
