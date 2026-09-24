@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84827,
+            "stars": 84835,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T19:53:59Z",
-            "open_issues": 474,
+            "last_commit": "2026-09-24T12:18:02Z",
+            "open_issues": 460,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81484,
+            "stars": 81486,
             "topics": [
               "framework",
               "java",
@@ -174,7 +174,7 @@
             "open_issues": 112,
             "owner": "lihengming",
             "repo": "spring-boot-api-project-seed",
-            "stars": 9689,
+            "stars": 9688,
             "topics": [
               "api",
               "java",
@@ -435,7 +435,7 @@
             "open_issues": 10,
             "owner": "szerhusenBC",
             "repo": "jwt-spring-security-demo",
-            "stars": 3106,
+            "stars": 3105,
             "topics": [
               "authentication",
               "demo",
@@ -519,7 +519,7 @@
             "open_issues": 37,
             "owner": "YeDaxia",
             "repo": "JApiDocs",
-            "stars": 1693,
+            "stars": 1692,
             "topics": [
               "api",
               "api-documentation",
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-23T08:41:14Z",
+            "last_commit": "2026-09-24T14:48:32Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -820,7 +820,7 @@
             "open_issues": 4,
             "owner": "ityouknow",
             "repo": "awesome-spring-cloud",
-            "stars": 1468,
+            "stars": 1469,
             "topics": [
               "spring-cloud",
               "springcloud"
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T15:10:05.893Z",
+    "last_updated": "2026-09-24T15:28:01.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
