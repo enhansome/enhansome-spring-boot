@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T16:18:40Z",
-            "open_issues": 455,
+            "last_commit": "2026-09-29T02:36:58Z",
+            "open_issues": 452,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81528,
+            "stars": 81534,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30493,
+            "stars": 30492,
             "topics": [
               "docker",
               "docker-composer",
@@ -146,7 +146,7 @@
             "open_issues": 55,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20373,
+            "stars": 20375,
             "topics": [
               "litemall",
               "mall",
@@ -174,7 +174,7 @@
             "open_issues": 112,
             "owner": "lihengming",
             "repo": "spring-boot-api-project-seed",
-            "stars": 9686,
+            "stars": 9685,
             "topics": [
               "api",
               "java",
@@ -237,7 +237,7 @@
             "open_issues": 68,
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7408,
+            "stars": 7407,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -325,7 +325,7 @@
             "open_issues": 25,
             "owner": "ZHENFENG13",
             "repo": "My-Blog",
-            "stars": 3887,
+            "stars": 3888,
             "topics": [
               "adminlte",
               "adminlte3",
@@ -435,7 +435,7 @@
             "open_issues": 10,
             "owner": "szerhusenBC",
             "repo": "jwt-spring-security-demo",
-            "stars": 3105,
+            "stars": 3106,
             "topics": [
               "authentication",
               "demo",
@@ -569,7 +569,7 @@
             "open_issues": 13,
             "owner": "timebusker",
             "repo": "spring-boot",
-            "stars": 1270,
+            "stars": 1271,
             "topics": [
               "aop",
               "async",
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T03:52:51Z",
+            "last_commit": "2026-09-29T09:08:15Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -844,7 +844,7 @@
             "open_issues": 1,
             "owner": "ityouknow",
             "repo": "awesome-list",
-            "stars": 534,
+            "stars": 536,
             "topics": [
               "android",
               "awesome",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T18:14:39.656Z",
+    "last_updated": "2026-09-29T16:36:38.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
