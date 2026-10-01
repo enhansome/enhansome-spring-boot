@@ -2,7 +2,7 @@
 
 收集各种 Spring Boot 学习资源
 
-[参与贡献](https://github.com/ityouknow/awesome-spring-boot/issues/1) ⭐ 4,560 | 🐛 17 | 📅 2024-05-25
+[参与贡献](https://github.com/ityouknow/awesome-spring-boot/issues/1) ⭐ 4,561 | 🐛 17 | 📅 2024-05-25
 
 ## 目录
 
@@ -38,17 +38,17 @@
 
 ## 开源
 
-* [mall-SpringBoot+MyBatis 电商系统](https://github.com/macrozheng/mall) ⭐ 84,851 | 🐛 15 | 🌐 Java | 📅 2026-09-15
-* [Spring Boot 官方示例](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples) ⭐ 81,534 | 🐛 456 | 🌐 Java | 📅 2026-09-29
+* [mall-SpringBoot+MyBatis 电商系统](https://github.com/macrozheng/mall) ⭐ 84,859 | 🐛 15 | 🌐 Java | 📅 2026-09-15
+* [Spring Boot 官方示例](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples) ⭐ 81,542 | 🐛 451 | 🌐 Java | 📅 2026-10-01
 * [纯洁的微笑 Spring Boot 示例](https://github.com/ityouknow/spring-boot-examples) ⭐ 30,490 | 🐛 17 | 🌐 Java | 📅 2023-11-18
 * [Vue+SpringBoot实现的人力资源管理系统](https://github.com/lenve/vhr) ⭐ 28,051 | 🐛 216 | 🌐 Java | 📅 2024-11-25
-* [Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端](https://github.com/linlinjava/litemall) ⭐ 20,378 | 🐛 55 | 🌐 Java | 📅 2026-08-20
+* [Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端](https://github.com/linlinjava/litemall) ⭐ 20,377 | 🐛 55 | 🌐 Java | 📅 2026-08-20
 * [一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed) ⭐ 9,684 | 🐛 112 | 🌐 Java | 📅 2023-12-17
-* [hsweb企业后台管理系统基础框架](https://github.com/hs-web/hsweb-framework) ⭐ 8,397 | 🐛 8 | 🌐 Java | 📅 2026-09-23
+* [hsweb企业后台管理系统基础框架](https://github.com/hs-web/hsweb-framework) ⭐ 8,397 | 🐛 9 | 🌐 Java | 📅 2026-09-23
 * [Vue+SpringBoot实现的多用户博客管理平台](https://github.com/lenve/VBlog) ⭐ 7,407 | 🐛 68 | 🌐 Java | 📅 2023-05-28
 * [Spring Boot开源软件 云收藏](https://github.com/cloudfavorites/favorites-web) ⭐ 4,846 | 🐛 14 | 🌐 HTML | 📅 2025-07-12
 * [Guns-基于SpringBoot的后台管理系统](https://github.com/stylefeng/Guns) ⭐ 3,974 | 🐛 60 | 🌐 Vue | 📅 2025-11-15
-* [Docker+SpringBoot+Mybatis+thymeleaf等技术实现的Java博客系统](https://github.com/ZHENFENG13/My-Blog) ⭐ 3,888 | 🐛 25 | 🌐 Java | 📅 2024-03-07
+* [Docker+SpringBoot+Mybatis+thymeleaf等技术实现的Java博客系统](https://github.com/ZHENFENG13/My-Blog) ⭐ 3,889 | 🐛 25 | 🌐 Java | 📅 2024-03-07
 * [Deployment scripts & config for Sock Shop](https://github.com/microservices-demo/microservices-demo) ⚠️ Archived
 * [Spring Boot 2.x 现代化的脚手架项目](https://github.com/hope-for/hope-boot) ⭐ 3,232 | 🐛 7 | 🌐 Java | 📅 2024-08-26
 * [JWT (Json Web Token) with Spring Security and Spring Boot 2](https://github.com/szerhusenBC/jwt-spring-security-demo) ⭐ 3,106 | 🐛 10 | 🌐 Java | 📅 2022-02-07
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
