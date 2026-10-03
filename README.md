@@ -38,8 +38,8 @@
 
 ## 开源
 
-* [mall-SpringBoot+MyBatis 电商系统](https://github.com/macrozheng/mall) ⭐ 84,860 | 🐛 15 | 🌐 Java | 📅 2026-09-15
-* [Spring Boot 官方示例](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples) ⭐ 81,547 | 🐛 455 | 🌐 Java | 📅 2026-10-02
+* [mall-SpringBoot+MyBatis 电商系统](https://github.com/macrozheng/mall) ⭐ 84,855 | 🐛 15 | 🌐 Java | 📅 2026-09-15
+* [Spring Boot 官方示例](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples) ⭐ 81,546 | 🐛 454 | 🌐 Java | 📅 2026-10-02
 * [纯洁的微笑 Spring Boot 示例](https://github.com/ityouknow/spring-boot-examples) ⭐ 30,485 | 🐛 17 | 🌐 Java | 📅 2023-11-18
 * [Vue+SpringBoot实现的人力资源管理系统](https://github.com/lenve/vhr) ⭐ 28,049 | 🐛 216 | 🌐 Java | 📅 2024-11-25
 * [Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端](https://github.com/linlinjava/litemall) ⭐ 20,375 | 🐛 55 | 🌐 Java | 📅 2026-08-20

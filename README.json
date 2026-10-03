@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84860,
+            "stars": 84855,
             "topics": [
               "docker",
               "elasticsearch",
@@ -54,10 +54,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T17:22:42Z",
-            "open_issues": 455,
+            "open_issues": 454,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81547,
+            "stars": 81546,
             "topics": [
               "framework",
               "java",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:08:04.569Z",
+    "last_updated": "2026-10-03T14:49:58.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
