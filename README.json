@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "mall-SpringBoot+MyBatis 电商系统",
-          "description": null,
+          "description": "macrozheng/mall",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84859,
+            "stars": 84860,
             "topics": [
               "docker",
               "elasticsearch",
@@ -44,7 +44,7 @@
         {
           "node_type": "item",
           "title": "Spring Boot 官方示例",
-          "description": null,
+          "description": "spring-projects/spring-boot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T11:30:23Z",
-            "open_issues": 454,
+            "last_commit": "2026-10-02T17:22:42Z",
+            "open_issues": 455,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81546,
+            "stars": 81547,
             "topics": [
               "framework",
               "java",
@@ -70,7 +70,7 @@
         {
           "node_type": "item",
           "title": "纯洁的微笑 Spring Boot 示例",
-          "description": null,
+          "description": "ityouknow/spring-boot-examples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -112,7 +112,7 @@
         {
           "node_type": "item",
           "title": "Vue+SpringBoot实现的人力资源管理系统",
-          "description": null,
+          "description": "lenve/vhr",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -133,7 +133,7 @@
         {
           "node_type": "item",
           "title": "Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端",
-          "description": null,
+          "description": "linlinjava/litemall",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -146,7 +146,7 @@
             "open_issues": 55,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20376,
+            "stars": 20375,
             "topics": [
               "litemall",
               "mall",
@@ -161,7 +161,7 @@
         {
           "node_type": "item",
           "title": "一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目",
-          "description": null,
+          "description": "lihengming/spring-boot-api-project-seed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -174,7 +174,7 @@
             "open_issues": 112,
             "owner": "lihengming",
             "repo": "spring-boot-api-project-seed",
-            "stars": 9684,
+            "stars": 9683,
             "topics": [
               "api",
               "java",
@@ -192,7 +192,7 @@
         {
           "node_type": "item",
           "title": "hsweb企业后台管理系统基础框架",
-          "description": null,
+          "description": "hs-web/hsweb-framework",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -224,7 +224,7 @@
         {
           "node_type": "item",
           "title": "Vue+SpringBoot实现的多用户博客管理平台",
-          "description": null,
+          "description": "lenve/VBlog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -245,7 +245,7 @@
         {
           "node_type": "item",
           "title": "Spring Boot开源软件 云收藏",
-          "description": null,
+          "description": "cloudfavorites/favorites-web",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -280,7 +280,7 @@
         {
           "node_type": "item",
           "title": "Guns-基于SpringBoot的后台管理系统",
-          "description": null,
+          "description": "stylefeng/Guns",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -312,7 +312,7 @@
         {
           "node_type": "item",
           "title": "Docker+SpringBoot+Mybatis+thymeleaf等技术实现的Java博客系统",
-          "description": null,
+          "description": "ZHENFENG13/My-Blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -354,7 +354,7 @@
         {
           "node_type": "item",
           "title": "Deployment scripts & config for Sock Shop",
-          "description": null,
+          "description": "microservices-demo/microservices-demo",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -387,7 +387,7 @@
         {
           "node_type": "item",
           "title": "Spring Boot 2.x 现代化的脚手架项目",
-          "description": null,
+          "description": "java-aodeng/hope-boot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -422,7 +422,7 @@
         {
           "node_type": "item",
           "title": "JWT (Json Web Token) with Spring Security and Spring Boot 2",
-          "description": null,
+          "description": "szerhusenBC/jwt-spring-security-demo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -452,7 +452,7 @@
         {
           "node_type": "item",
           "title": "Spring-Boot-Plus 后台快速开发脚手架",
-          "description": null,
+          "description": "geekidea/spring-boot-plus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -485,7 +485,7 @@
         {
           "node_type": "item",
           "title": "spring-boot各种示例",
-          "description": null,
+          "description": "leehaut/spring-boot-all",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -506,7 +506,7 @@
         {
           "node_type": "item",
           "title": "JApiDocs：无需注解的 SpringBoot API文档生成工具",
-          "description": null,
+          "description": "YeDaxia/JApiDocs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -532,7 +532,7 @@
         {
           "node_type": "item",
           "title": "Spring Boot开源博客",
-          "description": null,
+          "description": "Raysmond/SpringBlog",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -556,7 +556,7 @@
         {
           "node_type": "item",
           "title": "Spring Boot项目实践总结",
-          "description": null,
+          "description": "timebusker/spring-boot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -591,7 +591,7 @@
         {
           "node_type": "item",
           "title": "Spring Boot 实现的简易社区",
-          "description": null,
+          "description": "ChinaLHR/JavaQuarkBBS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -627,7 +627,7 @@
         {
           "node_type": "item",
           "title": "一个基于spring boot 实现的股票指数💹爬虫",
-          "description": null,
+          "description": "kingschan1204/istock",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -658,7 +658,7 @@
         {
           "node_type": "item",
           "title": "基于Spring-boot和bootstrap搭建的商城系统",
-          "description": null,
+          "description": "vito16/shop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -683,7 +683,7 @@
         {
           "node_type": "item",
           "title": "zhudyos/duic Distributed configuration center（分布式配置中心）:new:",
-          "description": null,
+          "description": "zhudyos/duic",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -711,7 +711,7 @@
         {
           "node_type": "item",
           "title": "当Parallel遇上了DI - SpringBoot并行聚合最佳实践",
-          "description": null,
+          "description": "lvyahui8/spring-boot-data-aggregator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -738,7 +738,7 @@
         {
           "node_type": "item",
           "title": "Vue+SpringBoot实现的实体书购买平台",
-          "description": null,
+          "description": "liuzhengwei127/Ebook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -759,7 +759,7 @@
         {
           "node_type": "item",
           "title": "halo-基于SpringBoot的博客系统",
-          "description": null,
+          "description": "ruibaby/halo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -780,7 +780,7 @@
         {
           "node_type": "item",
           "title": "基于Spring Boot2.0 微服务脚手架",
-          "description": null,
+          "description": "senssic/sc-whorl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -807,7 +807,7 @@
         {
           "node_type": "item",
           "title": "Spring Cloud 中文索引",
-          "description": null,
+          "description": "ityouknow/awesome-spring-cloud",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -831,7 +831,7 @@
         {
           "node_type": "item",
           "title": "IT行业中文资源大全",
-          "description": null,
+          "description": "ityouknow/awesome-list",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:20:56.118Z",
+    "last_updated": "2026-10-03T05:08:04.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
