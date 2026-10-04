@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84855,
+            "stars": 84856,
             "topics": [
               "docker",
               "elasticsearch",
@@ -54,10 +54,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T17:22:42Z",
-            "open_issues": 454,
+            "open_issues": 459,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81546,
+            "stars": 81551,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30485,
+            "stars": 30484,
             "topics": [
               "docker",
               "docker-composer",
@@ -293,7 +293,7 @@
             "open_issues": 60,
             "owner": "stylefeng",
             "repo": "Guns",
-            "stars": 3974,
+            "stars": 3975,
             "topics": [
               "beetl",
               "gun",
@@ -465,7 +465,7 @@
             "open_issues": 4,
             "owner": "geekidea",
             "repo": "spring-boot-plus",
-            "stars": 2515,
+            "stars": 2514,
             "topics": [
               "centos",
               "generator",
@@ -671,7 +671,7 @@
             "open_issues": 10,
             "owner": "vito16",
             "repo": "shop",
-            "stars": 598,
+            "stars": 599,
             "topics": [
               "bootstrap",
               "java",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:49:58.119Z",
+    "last_updated": "2026-10-04T15:28:45.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
@@ -878,7 +878,7 @@
       "open_issues": 17,
       "owner": "ityouknow",
       "repo": "awesome-spring-boot",
-      "stars": 4561,
+      "stars": 4562,
       "topics": [
         "awesome",
         "spring",
