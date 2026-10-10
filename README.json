@@ -16,10 +16,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-15T02:34:44Z",
-            "open_issues": 16,
+            "open_issues": 47,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84869,
+            "stars": 84868,
             "topics": [
               "docker",
               "elasticsearch",
@@ -57,7 +57,7 @@
             "open_issues": 498,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81585,
+            "stars": 81580,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30470,
+            "stars": 30468,
             "topics": [
               "docker",
               "docker-composer",
@@ -143,10 +143,10 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-20T00:43:07Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20377,
+            "stars": 20376,
             "topics": [
               "litemall",
               "mall",
@@ -174,7 +174,7 @@
             "open_issues": 112,
             "owner": "lihengming",
             "repo": "spring-boot-api-project-seed",
-            "stars": 9681,
+            "stars": 9682,
             "topics": [
               "api",
               "java",
@@ -201,8 +201,8 @@
             "id": 49850704,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T11:57:24Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-10T13:03:31Z",
+            "open_issues": 10,
             "owner": "hs-web",
             "repo": "hsweb-framework",
             "stars": 8397,
@@ -237,7 +237,7 @@
             "open_issues": 68,
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7404,
+            "stars": 7403,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -293,7 +293,7 @@
             "open_issues": 60,
             "owner": "stylefeng",
             "repo": "Guns",
-            "stars": 3977,
+            "stars": 3973,
             "topics": [
               "beetl",
               "gun",
@@ -400,7 +400,7 @@
             "open_issues": 7,
             "owner": "java-aodeng",
             "repo": "hope-boot",
-            "stars": 3230,
+            "stars": 3229,
             "topics": [
               "druid",
               "flyway",
@@ -519,7 +519,7 @@
             "open_issues": 37,
             "owner": "YeDaxia",
             "repo": "JApiDocs",
-            "stars": 1692,
+            "stars": 1690,
             "topics": [
               "api",
               "api-documentation",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:09:38.477Z",
+    "last_updated": "2026-10-10T15:56:27.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
