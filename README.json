@@ -19,7 +19,7 @@
             "open_issues": 47,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84868,
+            "stars": 84878,
             "topics": [
               "docker",
               "elasticsearch",
@@ -57,7 +57,7 @@
             "open_issues": 498,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81580,
+            "stars": 81586,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30468,
+            "stars": 30470,
             "topics": [
               "docker",
               "docker-composer",
@@ -146,7 +146,7 @@
             "open_issues": 56,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20376,
+            "stars": 20377,
             "topics": [
               "litemall",
               "mall",
@@ -174,7 +174,7 @@
             "open_issues": 112,
             "owner": "lihengming",
             "repo": "spring-boot-api-project-seed",
-            "stars": 9682,
+            "stars": 9681,
             "topics": [
               "api",
               "java",
@@ -201,7 +201,7 @@
             "id": 49850704,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T13:03:31Z",
+            "last_commit": "2026-10-11T12:01:34Z",
             "open_issues": 10,
             "owner": "hs-web",
             "repo": "hsweb-framework",
@@ -258,7 +258,7 @@
             "open_issues": 14,
             "owner": "cloudfavorites",
             "repo": "favorites-web",
-            "stars": 4849,
+            "stars": 4850,
             "topics": [
               "bootstrap",
               "docker",
@@ -293,7 +293,7 @@
             "open_issues": 60,
             "owner": "stylefeng",
             "repo": "Guns",
-            "stars": 3973,
+            "stars": 3975,
             "topics": [
               "beetl",
               "gun",
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T06:28:38Z",
+            "last_commit": "2026-10-11T06:38:06Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:56:27.701Z",
+    "last_updated": "2026-10-11T16:24:18.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
@@ -878,7 +878,7 @@
       "open_issues": 17,
       "owner": "ityouknow",
       "repo": "awesome-spring-boot",
-      "stars": 4560,
+      "stars": 4561,
       "topics": [
         "awesome",
         "spring",
