@@ -19,7 +19,7 @@
             "open_issues": 48,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84881,
+            "stars": 84890,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T18:58:15Z",
-            "open_issues": 514,
+            "last_commit": "2026-10-13T15:32:36Z",
+            "open_issues": 517,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81591,
+            "stars": 81628,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30470,
+            "stars": 30469,
             "topics": [
               "docker",
               "docker-composer",
@@ -125,7 +125,7 @@
             "open_issues": 216,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28036,
+            "stars": 28034,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -143,7 +143,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-20T00:43:07Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "linlinjava",
             "repo": "litemall",
             "stars": 20381,
@@ -201,7 +201,7 @@
             "id": 49850704,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T12:52:58Z",
+            "last_commit": "2026-10-13T03:21:33Z",
             "open_issues": 10,
             "owner": "hs-web",
             "repo": "hsweb-framework",
@@ -254,7 +254,7 @@
             "id": 65176628,
             "language": "HTML",
             "license": null,
-            "last_commit": "2025-07-12T01:41:05Z",
+            "last_commit": "2026-10-13T00:23:46Z",
             "open_issues": 14,
             "owner": "cloudfavorites",
             "repo": "favorites-web",
@@ -367,7 +367,7 @@
             "open_issues": 112,
             "owner": "microservices-demo",
             "repo": "microservices-demo",
-            "stars": 3782,
+            "stars": 3783,
             "topics": [
               "docker",
               "ecs",
@@ -465,7 +465,7 @@
             "open_issues": 4,
             "owner": "geekidea",
             "repo": "spring-boot-plus",
-            "stars": 2512,
+            "stars": 2511,
             "topics": [
               "centos",
               "generator",
@@ -640,7 +640,7 @@
             "open_issues": 20,
             "owner": "kingschan1204",
             "repo": "istock",
-            "stars": 845,
+            "stars": 844,
             "topics": [
               "bootstrap",
               "echarts",
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T03:12:56Z",
+            "last_commit": "2026-10-13T15:03:19Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -820,7 +820,7 @@
             "open_issues": 4,
             "owner": "ityouknow",
             "repo": "awesome-spring-cloud",
-            "stars": 1468,
+            "stars": 1469,
             "topics": [
               "spring-cloud",
               "springcloud"
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T19:58:21.872Z",
+    "last_updated": "2026-10-13T17:46:15.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
@@ -875,7 +875,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-05-25T13:46:41Z",
-      "open_issues": 17,
+      "open_issues": 16,
       "owner": "ityouknow",
       "repo": "awesome-spring-boot",
       "stars": 4561,
