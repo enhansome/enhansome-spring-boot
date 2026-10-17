@@ -19,7 +19,7 @@
             "open_issues": 48,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84908,
+            "stars": 84917,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T18:51:22Z",
-            "open_issues": 534,
+            "last_commit": "2026-10-17T09:29:51Z",
+            "open_issues": 533,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81712,
+            "stars": 81705,
             "topics": [
               "framework",
               "java",
@@ -143,10 +143,10 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-20T00:43:07Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20386,
+            "stars": 20389,
             "topics": [
               "litemall",
               "mall",
@@ -174,7 +174,7 @@
             "open_issues": 112,
             "owner": "lihengming",
             "repo": "spring-boot-api-project-seed",
-            "stars": 9682,
+            "stars": 9683,
             "topics": [
               "api",
               "java",
@@ -237,7 +237,7 @@
             "open_issues": 68,
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7404,
+            "stars": 7405,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -325,7 +325,7 @@
             "open_issues": 25,
             "owner": "ZHENFENG13",
             "repo": "My-Blog",
-            "stars": 3886,
+            "stars": 3887,
             "topics": [
               "adminlte",
               "adminlte3",
@@ -400,7 +400,7 @@
             "open_issues": 7,
             "owner": "java-aodeng",
             "repo": "hope-boot",
-            "stars": 3229,
+            "stars": 3230,
             "topics": [
               "druid",
               "flyway",
@@ -465,7 +465,7 @@
             "open_issues": 4,
             "owner": "geekidea",
             "repo": "spring-boot-plus",
-            "stars": 2512,
+            "stars": 2513,
             "topics": [
               "centos",
               "generator",
@@ -519,7 +519,7 @@
             "open_issues": 37,
             "owner": "YeDaxia",
             "repo": "JApiDocs",
-            "stars": 1689,
+            "stars": 1690,
             "topics": [
               "api",
               "api-documentation",
@@ -545,7 +545,7 @@
             "open_issues": 21,
             "owner": "Raysmond",
             "repo": "SpringBlog",
-            "stars": 1644,
+            "stars": 1645,
             "topics": [
               "blogging",
               "spring-boot"
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:58:50.468Z",
+    "last_updated": "2026-10-17T13:53:14.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
