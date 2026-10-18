@@ -19,7 +19,7 @@
             "open_issues": 48,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84917,
+            "stars": 84921,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T09:29:51Z",
-            "open_issues": 533,
+            "last_commit": "2026-10-17T21:10:41Z",
+            "open_issues": 536,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81705,
+            "stars": 81707,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30460,
+            "stars": 30457,
             "topics": [
               "docker",
               "docker-composer",
@@ -125,7 +125,7 @@
             "open_issues": 216,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28031,
+            "stars": 28030,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -146,7 +146,7 @@
             "open_issues": 60,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20389,
+            "stars": 20388,
             "topics": [
               "litemall",
               "mall",
@@ -174,7 +174,7 @@
             "open_issues": 112,
             "owner": "lihengming",
             "repo": "spring-boot-api-project-seed",
-            "stars": 9683,
+            "stars": 9684,
             "topics": [
               "api",
               "java",
@@ -205,7 +205,7 @@
             "open_issues": 9,
             "owner": "hs-web",
             "repo": "hsweb-framework",
-            "stars": 8394,
+            "stars": 8395,
             "topics": [
               "hsweb",
               "java",
@@ -237,7 +237,7 @@
             "open_issues": 68,
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7405,
+            "stars": 7404,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -258,7 +258,7 @@
             "open_issues": 14,
             "owner": "cloudfavorites",
             "repo": "favorites-web",
-            "stars": 4850,
+            "stars": 4849,
             "topics": [
               "bootstrap",
               "docker",
@@ -545,7 +545,7 @@
             "open_issues": 21,
             "owner": "Raysmond",
             "repo": "SpringBlog",
-            "stars": 1645,
+            "stars": 1644,
             "topics": [
               "blogging",
               "spring-boot"
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:53:14.978Z",
+    "last_updated": "2026-10-18T14:07:12.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
