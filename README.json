@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84940,
+            "stars": 84950,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T15:08:02Z",
-            "open_issues": 488,
+            "last_commit": "2026-10-23T14:37:05Z",
+            "open_issues": 487,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81759,
+            "stars": 81774,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30451,
+            "stars": 30449,
             "topics": [
               "docker",
               "docker-composer",
@@ -174,7 +174,7 @@
             "open_issues": 112,
             "owner": "lihengming",
             "repo": "spring-boot-api-project-seed",
-            "stars": 9679,
+            "stars": 9678,
             "topics": [
               "api",
               "java",
@@ -237,7 +237,7 @@
             "open_issues": 68,
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7401,
+            "stars": 7400,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-21T08:33:08Z",
+            "last_commit": "2026-10-23T06:31:34Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T15:33:10.061Z",
+    "last_updated": "2026-10-23T15:24:52.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
