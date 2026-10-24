@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84950,
+            "stars": 84953,
             "topics": [
               "docker",
               "elasticsearch",
@@ -54,10 +54,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T14:37:05Z",
-            "open_issues": 487,
+            "open_issues": 489,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81774,
+            "stars": 81772,
             "topics": [
               "framework",
               "java",
@@ -121,11 +121,11 @@
             "id": 116237823,
             "language": "Java",
             "license": null,
-            "last_commit": "2024-11-25T00:07:39Z",
+            "last_commit": "2026-10-24T10:31:43Z",
             "open_issues": 216,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28018,
+            "stars": 28019,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -146,7 +146,7 @@
             "open_issues": 61,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20393,
+            "stars": 20394,
             "topics": [
               "litemall",
               "mall",
@@ -258,7 +258,7 @@
             "open_issues": 14,
             "owner": "cloudfavorites",
             "repo": "favorites-web",
-            "stars": 4846,
+            "stars": 4845,
             "topics": [
               "bootstrap",
               "docker",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T15:24:52.315Z",
+    "last_updated": "2026-10-24T14:05:57.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
