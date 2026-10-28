@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 84972,
+            "stars": 84981,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T14:14:22Z",
-            "open_issues": 468,
+            "last_commit": "2026-10-28T11:24:08Z",
+            "open_issues": 470,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81770,
+            "stars": 81776,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30441,
+            "stars": 30439,
             "topics": [
               "docker",
               "docker-composer",
@@ -125,7 +125,7 @@
             "open_issues": 216,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28022,
+            "stars": 28024,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -237,7 +237,7 @@
             "open_issues": 68,
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7400,
+            "stars": 7399,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -325,7 +325,7 @@
             "open_issues": 25,
             "owner": "ZHENFENG13",
             "repo": "My-Blog",
-            "stars": 3885,
+            "stars": 3884,
             "topics": [
               "adminlte",
               "adminlte3",
@@ -696,7 +696,7 @@
             "open_issues": 17,
             "owner": "zhudyos",
             "repo": "duic",
-            "stars": 289,
+            "stars": 288,
             "topics": [
               "configuration",
               "configuration-management",
@@ -844,7 +844,7 @@
             "open_issues": 1,
             "owner": "ityouknow",
             "repo": "awesome-list",
-            "stars": 538,
+            "stars": 537,
             "topics": [
               "android",
               "awesome",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:59:02.996Z",
+    "last_updated": "2026-10-28T16:47:47.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
