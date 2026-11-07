@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 85009,
+            "stars": 85013,
             "topics": [
               "docker",
               "elasticsearch",
@@ -54,10 +54,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T16:31:29Z",
-            "open_issues": 477,
+            "open_issues": 482,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81785,
+            "stars": 81786,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30429,
+            "stars": 30427,
             "topics": [
               "docker",
               "docker-composer",
@@ -125,7 +125,7 @@
             "open_issues": 216,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28023,
+            "stars": 28022,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -205,7 +205,7 @@
             "open_issues": 11,
             "owner": "hs-web",
             "repo": "hsweb-framework",
-            "stars": 8394,
+            "stars": 8395,
             "topics": [
               "hsweb",
               "java",
@@ -237,7 +237,7 @@
             "open_issues": 68,
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7395,
+            "stars": 7394,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-05T09:41:58Z",
+            "last_commit": "2026-11-07T10:04:32Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T17:39:25.821Z",
+    "last_updated": "2026-11-07T16:36:03.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
@@ -878,7 +878,7 @@
       "open_issues": 17,
       "owner": "ityouknow",
       "repo": "awesome-spring-boot",
-      "stars": 4564,
+      "stars": 4563,
       "topics": [
         "awesome",
         "spring",
