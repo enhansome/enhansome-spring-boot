@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 85019,
+            "stars": 85023,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,8 +53,8 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T16:31:29Z",
-            "open_issues": 486,
+            "last_commit": "2026-11-09T12:45:47Z",
+            "open_issues": 487,
             "owner": "spring-projects",
             "repo": "spring-boot",
             "stars": 81787,
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30427,
+            "stars": 30426,
             "topics": [
               "docker",
               "docker-composer",
@@ -125,7 +125,7 @@
             "open_issues": 216,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28020,
+            "stars": 28021,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -201,7 +201,7 @@
             "id": 49850704,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T11:37:23Z",
+            "last_commit": "2026-11-09T09:23:10Z",
             "open_issues": 11,
             "owner": "hs-web",
             "repo": "hsweb-framework",
@@ -325,7 +325,7 @@
             "open_issues": 25,
             "owner": "ZHENFENG13",
             "repo": "My-Blog",
-            "stars": 3883,
+            "stars": 3884,
             "topics": [
               "adminlte",
               "adminlte3",
@@ -569,7 +569,7 @@
             "open_issues": 13,
             "owner": "timebusker",
             "repo": "spring-boot",
-            "stars": 1269,
+            "stars": 1268,
             "topics": [
               "aop",
               "async",
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-08T16:05:40Z",
+            "last_commit": "2026-11-09T11:00:15Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T16:46:00.967Z",
+    "last_updated": "2026-11-09T21:01:04.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
