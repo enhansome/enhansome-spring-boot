@@ -38,16 +38,16 @@
 
 ## 开源
 
-* [mall-SpringBoot+MyBatis 电商系统](https://github.com/macrozheng/mall) ⭐ 85,023 | 🐛 17 | 🌐 Java | 📅 2026-09-15
-* [Spring Boot 官方示例](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples) ⭐ 81,787 | 🐛 487 | 🌐 Java | 📅 2026-11-09
-* [纯洁的微笑 Spring Boot 示例](https://github.com/ityouknow/spring-boot-examples) ⭐ 30,426 | 🐛 17 | 🌐 Java | 📅 2023-11-18
-* [Vue+SpringBoot实现的人力资源管理系统](https://github.com/lenve/vhr) ⭐ 28,021 | 🐛 216 | 🌐 Java | 📅 2026-10-24
-* [Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端](https://github.com/linlinjava/litemall) ⭐ 20,409 | 🐛 60 | 🌐 Java | 📅 2026-08-20
-* [一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed) ⭐ 9,673 | 🐛 112 | 🌐 Java | 📅 2023-12-17
-* [hsweb企业后台管理系统基础框架](https://github.com/hs-web/hsweb-framework) ⭐ 8,395 | 🐛 11 | 🌐 Java | 📅 2026-11-09
+* [mall-SpringBoot+MyBatis 电商系统](https://github.com/macrozheng/mall) ⭐ 85,031 | 🐛 17 | 🌐 Java | 📅 2026-09-15
+* [Spring Boot 官方示例](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples) ⭐ 81,796 | 🐛 535 | 🌐 Java | 📅 2026-11-10
+* [纯洁的微笑 Spring Boot 示例](https://github.com/ityouknow/spring-boot-examples) ⭐ 30,427 | 🐛 17 | 🌐 Java | 📅 2023-11-18
+* [Vue+SpringBoot实现的人力资源管理系统](https://github.com/lenve/vhr) ⭐ 28,019 | 🐛 217 | 🌐 Java | 📅 2026-10-24
+* [Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端](https://github.com/linlinjava/litemall) ⭐ 20,408 | 🐛 60 | 🌐 Java | 📅 2026-08-20
+* [一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed) ⭐ 9,674 | 🐛 112 | 🌐 Java | 📅 2023-12-17
+* [hsweb企业后台管理系统基础框架](https://github.com/hs-web/hsweb-framework) ⭐ 8,394 | 🐛 11 | 🌐 Java | 📅 2026-11-10
 * [Vue+SpringBoot实现的多用户博客管理平台](https://github.com/lenve/VBlog) ⭐ 7,394 | 🐛 68 | 🌐 Java | 📅 2023-05-28
-* [Spring Boot开源软件 云收藏](https://github.com/cloudfavorites/favorites-web) ⭐ 4,840 | 🐛 14 | 🌐 HTML | 📅 2026-10-13
-* [Guns-基于SpringBoot的后台管理系统](https://github.com/stylefeng/Guns) ⭐ 3,973 | 🐛 60 | 🌐 Vue | 📅 2025-11-15
+* [Spring Boot开源软件 云收藏](https://github.com/cloudfavorites/favorites-web) ⭐ 4,839 | 🐛 14 | 🌐 HTML | 📅 2026-10-13
+* [Guns-基于SpringBoot的后台管理系统](https://github.com/stylefeng/Guns) ⭐ 3,974 | 🐛 60 | 🌐 Vue | 📅 2025-11-15
 * [Docker+SpringBoot+Mybatis+thymeleaf等技术实现的Java博客系统](https://github.com/ZHENFENG13/My-Blog) ⭐ 3,884 | 🐛 25 | 🌐 Java | 📅 2024-03-07
 * [Deployment scripts & config for Sock Shop](https://github.com/microservices-demo/microservices-demo) ⚠️ Archived
 * [Spring Boot 2.x 现代化的脚手架项目](https://github.com/hope-for/hope-boot) ⭐ 3,227 | 🐛 7 | 🌐 Java | 📅 2024-08-26
@@ -57,13 +57,13 @@
 * [JApiDocs：无需注解的 SpringBoot API文档生成工具](https://github.com/YeDaxia/JApiDocs) ⭐ 1,687 | 🐛 37 | 🌐 Java | 📅 2026-03-19
 * [Spring Boot开源博客](https://github.com/Raysmond/SpringBlog) ⚠️ Archived
 * [Spring Boot项目实践总结](https://github.com/timebusker/spring-boot) ⭐ 1,268 | 🐛 13 | 🌐 Java | 📅 2022-10-12
-* [Spring Boot 实现的简易社区](https://github.com/ChinaLHR/JavaQuarkBBS) ⭐ 892 | 🐛 7 | 🌐 Java | 📅 2022-06-17
-* [一个基于spring boot 实现的股票指数💹爬虫](https://github.com/kingschan1204/istock) ⭐ 842 | 🐛 20 | 🌐 Java | 📅 2024-12-27
-* [基于Spring-boot和bootstrap搭建的商城系统](https://github.com/vito16/shop) ⭐ 599 | 🐛 10 | 🌐 JavaScript | 📅 2023-02-22
+* [Spring Boot 实现的简易社区](https://github.com/ChinaLHR/JavaQuarkBBS) ⭐ 893 | 🐛 7 | 🌐 Java | 📅 2022-06-17
+* [一个基于spring boot 实现的股票指数💹爬虫](https://github.com/kingschan1204/istock) ⭐ 843 | 🐛 20 | 🌐 Java | 📅 2024-12-27
+* [基于Spring-boot和bootstrap搭建的商城系统](https://github.com/vito16/shop) ⭐ 600 | 🐛 10 | 🌐 JavaScript | 📅 2023-02-22
 * [zhudyos/duic Distributed configuration center（分布式配置中心）:new:](https://github.com/zhudyos/duic) ⚠️ Archived
 * [当Parallel遇上了DI - SpringBoot并行聚合最佳实践](https://github.com/lvyahui8/spring-boot-data-aggregator) ⭐ 179 | 🐛 7 | 🌐 Java | 📅 2025-07-12
 * [Vue+SpringBoot实现的实体书购买平台](https://github.com/liuzhengwei127/Ebook) ⭐ 132 | 🐛 6 | 📅 2019-05-13
-* [halo-基于SpringBoot的博客系统](https://github.com/ruibaby/halo) ⭐ 93 | 🐛 1 | 🌐 Java | 📅 2026-11-09
+* [halo-基于SpringBoot的博客系统](https://github.com/ruibaby/halo) ⭐ 93 | 🐛 1 | 🌐 Java | 📅 2026-11-10
 * [基于Spring Boot2.0 微服务脚手架](https://github.com/Senssic/sc-whorl) ⭐ 22 | 🐛 0 | 🌐 Java | 📅 2024-08-14
 * [Spring boot & Shiro 权限管理系统](https://github.com/wuyouzhuguli/FEBS)
 * [Spring Boot实现支付服务：支付宝，微信...](https://gitee.com/52itstyle/spring-boot-pay)
@@ -90,7 +90,7 @@
 ## 其它
 
 * [Spring Cloud 中文索引](https://github.com/ityouknow/awesome-spring-cloud) ⭐ 1,467 | 🐛 4 | 📅 2020-10-16
-* [IT行业中文资源大全](https://github.com/ityouknow/awesome-list) ⭐ 537 | 🐛 1 | 📅 2022-10-19
+* [IT行业中文资源大全](https://github.com/ityouknow/awesome-list) ⭐ 538 | 🐛 1 | 📅 2022-10-19
 * [知乎-Spring Boot要如何学习？](https://www.zhihu.com/question/53729800/answer/311948415)
 * [程序员导航网站](http://tooool.org/)
 * [很多的 Hello Demo](https://github.com/hellokoding)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._

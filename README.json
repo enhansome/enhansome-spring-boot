@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 85023,
+            "stars": 85031,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T12:45:47Z",
-            "open_issues": 487,
+            "last_commit": "2026-11-10T17:18:35Z",
+            "open_issues": 535,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81787,
+            "stars": 81796,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30426,
+            "stars": 30427,
             "topics": [
               "docker",
               "docker-composer",
@@ -122,10 +122,10 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-10-24T10:31:43Z",
-            "open_issues": 216,
+            "open_issues": 217,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28021,
+            "stars": 28019,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -146,7 +146,7 @@
             "open_issues": 60,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20409,
+            "stars": 20408,
             "topics": [
               "litemall",
               "mall",
@@ -174,7 +174,7 @@
             "open_issues": 112,
             "owner": "lihengming",
             "repo": "spring-boot-api-project-seed",
-            "stars": 9673,
+            "stars": 9674,
             "topics": [
               "api",
               "java",
@@ -201,11 +201,11 @@
             "id": 49850704,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T09:23:10Z",
+            "last_commit": "2026-11-10T15:07:52Z",
             "open_issues": 11,
             "owner": "hs-web",
             "repo": "hsweb-framework",
-            "stars": 8395,
+            "stars": 8394,
             "topics": [
               "hsweb",
               "java",
@@ -258,7 +258,7 @@
             "open_issues": 14,
             "owner": "cloudfavorites",
             "repo": "favorites-web",
-            "stars": 4840,
+            "stars": 4839,
             "topics": [
               "bootstrap",
               "docker",
@@ -293,7 +293,7 @@
             "open_issues": 60,
             "owner": "stylefeng",
             "repo": "Guns",
-            "stars": 3973,
+            "stars": 3974,
             "topics": [
               "beetl",
               "gun",
@@ -367,7 +367,7 @@
             "open_issues": 112,
             "owner": "microservices-demo",
             "repo": "microservices-demo",
-            "stars": 3778,
+            "stars": 3779,
             "topics": [
               "docker",
               "ecs",
@@ -604,7 +604,7 @@
             "open_issues": 7,
             "owner": "ChinaLHR",
             "repo": "JavaQuarkBBS",
-            "stars": 892,
+            "stars": 893,
             "topics": [
               "bootstrap",
               "hibernate",
@@ -640,7 +640,7 @@
             "open_issues": 20,
             "owner": "kingschan1204",
             "repo": "istock",
-            "stars": 842,
+            "stars": 843,
             "topics": [
               "bootstrap",
               "echarts",
@@ -671,7 +671,7 @@
             "open_issues": 10,
             "owner": "vito16",
             "repo": "shop",
-            "stars": 599,
+            "stars": 600,
             "topics": [
               "bootstrap",
               "java",
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T11:00:15Z",
+            "last_commit": "2026-11-10T13:47:25Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -844,7 +844,7 @@
             "open_issues": 1,
             "owner": "ityouknow",
             "repo": "awesome-list",
-            "stars": 537,
+            "stars": 538,
             "topics": [
               "android",
               "awesome",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T21:01:04.760Z",
+    "last_updated": "2026-11-10T18:09:53.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
