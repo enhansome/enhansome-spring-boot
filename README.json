@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 85031,
+            "stars": 85036,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T17:18:35Z",
-            "open_issues": 535,
+            "last_commit": "2026-11-11T17:09:11Z",
+            "open_issues": 536,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81796,
+            "stars": 81854,
             "topics": [
               "framework",
               "java",
@@ -125,7 +125,7 @@
             "open_issues": 217,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28019,
+            "stars": 28015,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -201,11 +201,11 @@
             "id": 49850704,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T15:07:52Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-11T09:42:25Z",
+            "open_issues": 10,
             "owner": "hs-web",
             "repo": "hsweb-framework",
-            "stars": 8394,
+            "stars": 8395,
             "topics": [
               "hsweb",
               "java",
@@ -237,7 +237,7 @@
             "open_issues": 68,
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7394,
+            "stars": 7395,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -258,7 +258,7 @@
             "open_issues": 14,
             "owner": "cloudfavorites",
             "repo": "favorites-web",
-            "stars": 4839,
+            "stars": 4838,
             "topics": [
               "bootstrap",
               "docker",
@@ -325,7 +325,7 @@
             "open_issues": 25,
             "owner": "ZHENFENG13",
             "repo": "My-Blog",
-            "stars": 3884,
+            "stars": 3883,
             "topics": [
               "adminlte",
               "adminlte3",
@@ -844,7 +844,7 @@
             "open_issues": 1,
             "owner": "ityouknow",
             "repo": "awesome-list",
-            "stars": 538,
+            "stars": 539,
             "topics": [
               "android",
               "awesome",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T18:09:53.465Z",
+    "last_updated": "2026-11-11T18:00:21.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
