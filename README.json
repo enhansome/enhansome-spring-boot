@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 85043,
+            "stars": 85045,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T09:08:56Z",
-            "open_issues": 536,
+            "last_commit": "2026-11-13T17:46:59Z",
+            "open_issues": 526,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81904,
+            "stars": 81916,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30431,
+            "stars": 30430,
             "topics": [
               "docker",
               "docker-composer",
@@ -125,7 +125,7 @@
             "open_issues": 217,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28017,
+            "stars": 28015,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -205,7 +205,7 @@
             "open_issues": 10,
             "owner": "hs-web",
             "repo": "hsweb-framework",
-            "stars": 8396,
+            "stars": 8394,
             "topics": [
               "hsweb",
               "java",
@@ -237,7 +237,7 @@
             "open_issues": 68,
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7395,
+            "stars": 7394,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -258,7 +258,7 @@
             "open_issues": 14,
             "owner": "cloudfavorites",
             "repo": "favorites-web",
-            "stars": 4838,
+            "stars": 4837,
             "topics": [
               "bootstrap",
               "docker",
@@ -293,7 +293,7 @@
             "open_issues": 61,
             "owner": "stylefeng",
             "repo": "Guns",
-            "stars": 3974,
+            "stars": 3973,
             "topics": [
               "beetl",
               "gun",
@@ -367,7 +367,7 @@
             "open_issues": 112,
             "owner": "microservices-demo",
             "repo": "microservices-demo",
-            "stars": 3779,
+            "stars": 3780,
             "topics": [
               "docker",
               "ecs",
@@ -465,7 +465,7 @@
             "open_issues": 5,
             "owner": "geekidea",
             "repo": "spring-boot-plus",
-            "stars": 2508,
+            "stars": 2507,
             "topics": [
               "centos",
               "generator",
@@ -724,7 +724,7 @@
             "open_issues": 7,
             "owner": "lvyahui8",
             "repo": "spring-boot-data-aggregator",
-            "stars": 179,
+            "stars": 178,
             "topics": [
               "bean-mapping",
               "concurrency",
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T14:05:34Z",
+            "last_commit": "2026-11-13T09:09:20Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -820,7 +820,7 @@
             "open_issues": 4,
             "owner": "ityouknow",
             "repo": "awesome-spring-cloud",
-            "stars": 1467,
+            "stars": 1466,
             "topics": [
               "spring-cloud",
               "springcloud"
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T18:33:01.798Z",
+    "last_updated": "2026-11-13T17:59:48.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
