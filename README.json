@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 85045,
+            "stars": 85048,
             "topics": [
               "docker",
               "elasticsearch",
@@ -54,7 +54,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-13T17:46:59Z",
-            "open_issues": 526,
+            "open_issues": 528,
             "owner": "spring-projects",
             "repo": "spring-boot",
             "stars": 81916,
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30430,
+            "stars": 30429,
             "topics": [
               "docker",
               "docker-composer",
@@ -146,7 +146,7 @@
             "open_issues": 61,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20406,
+            "stars": 20407,
             "topics": [
               "litemall",
               "mall",
@@ -174,7 +174,7 @@
             "open_issues": 113,
             "owner": "lihengming",
             "repo": "spring-boot-api-project-seed",
-            "stars": 9674,
+            "stars": 9672,
             "topics": [
               "api",
               "java",
@@ -201,11 +201,11 @@
             "id": 49850704,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T02:10:49Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-14T12:01:24Z",
+            "open_issues": 11,
             "owner": "hs-web",
             "repo": "hsweb-framework",
-            "stars": 8394,
+            "stars": 8393,
             "topics": [
               "hsweb",
               "java",
@@ -325,7 +325,7 @@
             "open_issues": 25,
             "owner": "ZHENFENG13",
             "repo": "My-Blog",
-            "stars": 3883,
+            "stars": 3881,
             "topics": [
               "adminlte",
               "adminlte3",
@@ -367,7 +367,7 @@
             "open_issues": 112,
             "owner": "microservices-demo",
             "repo": "microservices-demo",
-            "stars": 3780,
+            "stars": 3779,
             "topics": [
               "docker",
               "ecs",
@@ -569,7 +569,7 @@
             "open_issues": 13,
             "owner": "timebusker",
             "repo": "spring-boot",
-            "stars": 1268,
+            "stars": 1267,
             "topics": [
               "aop",
               "async",
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T09:09:20Z",
+            "last_commit": "2026-11-14T15:37:25Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:59:48.309Z",
+    "last_updated": "2026-11-14T16:42:18.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
