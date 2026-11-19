@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T19:53:20Z",
+            "last_commit": "2026-11-19T18:52:52Z",
             "open_issues": 492,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81881,
+            "stars": 81909,
             "topics": [
               "framework",
               "java",
@@ -125,7 +125,7 @@
             "open_issues": 217,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28012,
+            "stars": 28011,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -146,7 +146,7 @@
             "open_issues": 61,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20413,
+            "stars": 20412,
             "topics": [
               "litemall",
               "mall",
@@ -325,7 +325,7 @@
             "open_issues": 25,
             "owner": "ZHENFENG13",
             "repo": "My-Blog",
-            "stars": 3880,
+            "stars": 3881,
             "topics": [
               "adminlte",
               "adminlte3",
@@ -569,7 +569,7 @@
             "open_issues": 13,
             "owner": "timebusker",
             "repo": "spring-boot",
-            "stars": 1267,
+            "stars": 1266,
             "topics": [
               "aop",
               "async",
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-18T14:05:56Z",
+            "last_commit": "2026-11-19T14:30:22Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T19:00:03.999Z",
+    "last_updated": "2026-11-19T19:07:38.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
