@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 85066,
+            "stars": 85068,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T18:52:52Z",
-            "open_issues": 492,
+            "last_commit": "2026-11-20T16:17:08Z",
+            "open_issues": 497,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81909,
+            "stars": 81911,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30425,
+            "stars": 30422,
             "topics": [
               "docker",
               "docker-composer",
@@ -174,7 +174,7 @@
             "open_issues": 113,
             "owner": "lihengming",
             "repo": "spring-boot-api-project-seed",
-            "stars": 9671,
+            "stars": 9669,
             "topics": [
               "api",
               "java",
@@ -201,8 +201,8 @@
             "id": 49850704,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T14:29:12Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-20T13:50:12Z",
+            "open_issues": 10,
             "owner": "hs-web",
             "repo": "hsweb-framework",
             "stars": 8393,
@@ -237,7 +237,7 @@
             "open_issues": 68,
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7395,
+            "stars": 7394,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -258,7 +258,7 @@
             "open_issues": 14,
             "owner": "cloudfavorites",
             "repo": "favorites-web",
-            "stars": 4836,
+            "stars": 4835,
             "topics": [
               "bootstrap",
               "docker",
@@ -293,7 +293,7 @@
             "open_issues": 61,
             "owner": "stylefeng",
             "repo": "Guns",
-            "stars": 3973,
+            "stars": 3972,
             "topics": [
               "beetl",
               "gun",
@@ -367,7 +367,7 @@
             "open_issues": 112,
             "owner": "microservices-demo",
             "repo": "microservices-demo",
-            "stars": 3779,
+            "stars": 3778,
             "topics": [
               "docker",
               "ecs",
@@ -400,7 +400,7 @@
             "open_issues": 7,
             "owner": "java-aodeng",
             "repo": "hope-boot",
-            "stars": 3226,
+            "stars": 3225,
             "topics": [
               "druid",
               "flyway",
@@ -435,7 +435,7 @@
             "open_issues": 10,
             "owner": "szerhusenBC",
             "repo": "jwt-spring-security-demo",
-            "stars": 3101,
+            "stars": 3100,
             "topics": [
               "authentication",
               "demo",
@@ -465,7 +465,7 @@
             "open_issues": 5,
             "owner": "geekidea",
             "repo": "spring-boot-plus",
-            "stars": 2507,
+            "stars": 2506,
             "topics": [
               "centos",
               "generator",
@@ -498,7 +498,7 @@
             "open_issues": 14,
             "owner": "leehaut",
             "repo": "spring-boot-all",
-            "stars": 1935,
+            "stars": 1933,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -506,7 +506,7 @@
         {
           "node_type": "item",
           "title": "JApiDocs：无需注解的 SpringBoot API文档生成工具",
-          "description": "YeDaxia/JApiDocs",
+          "description": "hidaxia/JApiDocs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -517,9 +517,9 @@
             "license": "Apache-2.0",
             "last_commit": "2026-03-19T16:05:36Z",
             "open_issues": 37,
-            "owner": "YeDaxia",
+            "owner": "hidaxia",
             "repo": "JApiDocs",
-            "stars": 1687,
+            "stars": 1686,
             "topics": [
               "api",
               "api-documentation",
@@ -545,7 +545,7 @@
             "open_issues": 21,
             "owner": "Raysmond",
             "repo": "SpringBlog",
-            "stars": 1642,
+            "stars": 1640,
             "topics": [
               "blogging",
               "spring-boot"
@@ -569,7 +569,7 @@
             "open_issues": 13,
             "owner": "timebusker",
             "repo": "spring-boot",
-            "stars": 1266,
+            "stars": 1265,
             "topics": [
               "aop",
               "async",
@@ -604,7 +604,7 @@
             "open_issues": 7,
             "owner": "ChinaLHR",
             "repo": "JavaQuarkBBS",
-            "stars": 893,
+            "stars": 892,
             "topics": [
               "bootstrap",
               "hibernate",
@@ -640,7 +640,7 @@
             "open_issues": 20,
             "owner": "kingschan1204",
             "repo": "istock",
-            "stars": 842,
+            "stars": 841,
             "topics": [
               "bootstrap",
               "echarts",
@@ -671,7 +671,7 @@
             "open_issues": 10,
             "owner": "vito16",
             "repo": "shop",
-            "stars": 600,
+            "stars": 598,
             "topics": [
               "bootstrap",
               "java",
@@ -768,7 +768,7 @@
             "id": 237575387,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-19T14:30:22Z",
+            "last_commit": "2026-11-20T09:37:15Z",
             "open_issues": 1,
             "owner": "ruibaby",
             "repo": "halo",
@@ -820,7 +820,7 @@
             "open_issues": 4,
             "owner": "ityouknow",
             "repo": "awesome-spring-cloud",
-            "stars": 1467,
+            "stars": 1466,
             "topics": [
               "spring-cloud",
               "springcloud"
@@ -844,7 +844,7 @@
             "open_issues": 1,
             "owner": "ityouknow",
             "repo": "awesome-list",
-            "stars": 539,
+            "stars": 538,
             "topics": [
               "android",
               "awesome",
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T19:07:38.118Z",
+    "last_updated": "2026-11-20T18:45:39.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
@@ -878,7 +878,7 @@
       "open_issues": 17,
       "owner": "ityouknow",
       "repo": "awesome-spring-boot",
-      "stars": 4567,
+      "stars": 4568,
       "topics": [
         "awesome",
         "spring",
