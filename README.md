@@ -38,14 +38,14 @@
 
 ## 开源
 
-* [mall-SpringBoot+MyBatis 电商系统](https://github.com/macrozheng/mall) ⭐ 85,076 | 🐛 17 | 🌐 Java | 📅 2026-09-15
-* [Spring Boot 官方示例](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples) ⭐ 81,935 | 🐛 494 | 🌐 Java | 📅 2026-11-21
-* [纯洁的微笑 Spring Boot 示例](https://github.com/ityouknow/spring-boot-examples) ⭐ 30,422 | 🐛 17 | 🌐 Java | 📅 2023-11-18
+* [mall-SpringBoot+MyBatis 电商系统](https://github.com/macrozheng/mall) ⭐ 85,078 | 🐛 17 | 🌐 Java | 📅 2026-09-15
+* [Spring Boot 官方示例](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples) ⭐ 81,939 | 🐛 504 | 🌐 Java | 📅 2026-11-24
+* [纯洁的微笑 Spring Boot 示例](https://github.com/ityouknow/spring-boot-examples) ⭐ 30,423 | 🐛 17 | 🌐 Java | 📅 2023-11-18
 * [Vue+SpringBoot实现的人力资源管理系统](https://github.com/lenve/vhr) ⭐ 28,013 | 🐛 217 | 🌐 Java | 📅 2026-10-24
-* [Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端](https://github.com/linlinjava/litemall) ⭐ 20,412 | 🐛 61 | 🌐 Java | 📅 2026-08-20
+* [Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端](https://github.com/linlinjava/litemall) ⭐ 20,415 | 🐛 61 | 🌐 Java | 📅 2026-08-20
 * [一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目](https://github.com/lihengming/spring-boot-api-project-seed) ⭐ 9,671 | 🐛 113 | 🌐 Java | 📅 2023-12-17
 * [hsweb企业后台管理系统基础框架](https://github.com/hs-web/hsweb-framework) ⭐ 8,393 | 🐛 10 | 🌐 Java | 📅 2026-11-20
-* [Vue+SpringBoot实现的多用户博客管理平台](https://github.com/lenve/VBlog) ⭐ 7,393 | 🐛 68 | 🌐 Java | 📅 2023-05-28
+* [Vue+SpringBoot实现的多用户博客管理平台](https://github.com/lenve/VBlog) ⭐ 7,394 | 🐛 68 | 🌐 Java | 📅 2023-05-28
 * [Spring Boot开源软件 云收藏](https://github.com/cloudfavorites/favorites-web) ⭐ 4,835 | 🐛 14 | 🌐 HTML | 📅 2026-10-13
 * [Guns-基于SpringBoot的后台管理系统](https://github.com/stylefeng/Guns) ⭐ 3,972 | 🐛 61 | 🌐 Vue | 📅 2025-11-15
 * [Docker+SpringBoot+Mybatis+thymeleaf等技术实现的Java博客系统](https://github.com/ZHENFENG13/My-Blog) ⭐ 3,881 | 🐛 25 | 🌐 Java | 📅 2024-03-07
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 85076,
+            "stars": 85078,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T23:31:26Z",
-            "open_issues": 494,
+            "last_commit": "2026-11-24T19:53:20Z",
+            "open_issues": 504,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81935,
+            "stars": 81939,
             "topics": [
               "framework",
               "java",
@@ -83,7 +83,7 @@
             "open_issues": 17,
             "owner": "ityouknow",
             "repo": "spring-boot-examples",
-            "stars": 30422,
+            "stars": 30423,
             "topics": [
               "docker",
               "docker-composer",
@@ -146,7 +146,7 @@
             "open_issues": 61,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20412,
+            "stars": 20415,
             "topics": [
               "litemall",
               "mall",
@@ -237,7 +237,7 @@
             "open_issues": 68,
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7393,
+            "stars": 7394,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:11:28.333Z",
+    "last_updated": "2026-11-24T20:49:40.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
