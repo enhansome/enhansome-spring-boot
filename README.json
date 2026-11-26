@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "macrozheng",
             "repo": "mall",
-            "stars": 85079,
+            "stars": 85080,
             "topics": [
               "docker",
               "elasticsearch",
@@ -53,11 +53,11 @@
             "id": 6296790,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T19:53:20Z",
-            "open_issues": 501,
+            "last_commit": "2026-11-26T13:17:03Z",
+            "open_issues": 496,
             "owner": "spring-projects",
             "repo": "spring-boot",
-            "stars": 81979,
+            "stars": 82009,
             "topics": [
               "framework",
               "java",
@@ -125,7 +125,7 @@
             "open_issues": 217,
             "owner": "lenve",
             "repo": "vhr",
-            "stars": 28012,
+            "stars": 28009,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -146,7 +146,7 @@
             "open_issues": 61,
             "owner": "linlinjava",
             "repo": "litemall",
-            "stars": 20416,
+            "stars": 20419,
             "topics": [
               "litemall",
               "mall",
@@ -174,7 +174,7 @@
             "open_issues": 113,
             "owner": "lihengming",
             "repo": "spring-boot-api-project-seed",
-            "stars": 9670,
+            "stars": 9669,
             "topics": [
               "api",
               "java",
@@ -205,7 +205,7 @@
             "open_issues": 10,
             "owner": "hs-web",
             "repo": "hsweb-framework",
-            "stars": 8392,
+            "stars": 8393,
             "topics": [
               "hsweb",
               "java",
@@ -237,7 +237,7 @@
             "open_issues": 68,
             "owner": "lenve",
             "repo": "VBlog",
-            "stars": 7394,
+            "stars": 7392,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:23.842Z"
@@ -866,7 +866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T20:06:53.521Z",
+    "last_updated": "2026-11-26T19:47:03.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "Spring Boot Resources",
